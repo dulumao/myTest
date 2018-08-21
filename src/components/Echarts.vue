@@ -5,7 +5,7 @@
 
 <script>
   export default {
-    name: "echarts",
+    name: "Echarts",
     mounted:function () {
       var echarts = require('echarts');
       var myChart = echarts.init($("#main")[0]);

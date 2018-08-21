@@ -3,9 +3,7 @@
     <button @click="initWS">初始化webscoket</button>
     <button @click="sendMsg">发送数据</button>
     <button @click="closeWS">断开连接</button>
-    <button @click="english">中文-英文</button>
-    <button @click="english2">英文-中文</button>
-    <button @click="english3">中文-英文</button>
+
   </div>
 </template>
 
@@ -38,28 +36,6 @@
       },
       closeWS: function () {
         this.ws.close();
-      },
-      english: function () {
-        Microsoft.Translator.Widget.Translate('zh-CHS', 'en', onProgress, onError, onComplete, onRestoreOriginal, 4000);
-        function onProgress(value) {
-        }
-        function onError(error) {
-        }
-        function onComplete() {
-        }
-        function onRestoreOriginal() {
-        }
-      },
-      english2: function () {
-        Microsoft.Translator.Widget.Translate('en', 'zh-CHS', onProgress, onError, onComplete, onRestoreOriginal, 4000);
-        function onProgress(value) {
-        }
-        function onError(error) {
-        }
-        function onComplete() {
-        }
-        function onRestoreOriginal() {
-        }
       }
     },
     mounted: function () {

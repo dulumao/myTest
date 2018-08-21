@@ -21,7 +21,7 @@
 <script>
   import {mapState, mapMutations, mapGetters} from "vuex"
   export default {
-    name: "vuexCs",
+    name: "VuexCs",
     data: function () {
       return {
         dauserName: this.$store.state.userName,

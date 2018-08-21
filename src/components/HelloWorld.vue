@@ -31,26 +31,20 @@
       }
     },
     mounted: function(){
-      function y(n) {
-        return 30 + (parseInt((n - 1) / 3) * 40)
-      }
-      var y = 30 + (parseInt((n - 1) / 3) * 40)
       var mySwiper = new Swiper('.swiper-container', {
-        // autoplay: {
-        //   disableOnInteraction: false,
-        // },//可选选项，自动滑动
-        slidesPerView : 1,
-        slidesPerGroup : 1,
+        autoplay: {
+          disableOnInteraction: false,
+        }
       })
       // 回调执行函数
       const _this = this;
-      function getUserAccount() {
-        return _this.axios.get('/static/beauty10gt10.csv');
-      }
-
-      function getUserPermissions() {
-        return _this.axios.get('/static/addr.csv');
-      }
+      // function getUserAccount() {
+      //   return _this.axios.get('/static/beauty10gt10.csv');
+      // }
+      //
+      // function getUserPermissions() {
+      //   return _this.axios.get('/static/addr.csv');
+      // }
 
       // this.axios.all([getUserAccount(), getUserPermissions()])
       //   .then(_this.axios.spread(function (data1, data2) {
@@ -154,16 +148,16 @@
       //   data: {}
       // });
       //jsonp实现跨域
-      const jsonp = require("jsonp")
-      jsonp("https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su", {params: {}, prefix : "fn"},(err,data) => {
-        if(err) {
-          console.log("err")
-          console.log(err)
-        }else{
-          console.log("jsonp")
-          console.log(data)
-        }
-      })
+      // const jsonp = require("jsonp")
+      // jsonp("https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su", {params: {}, prefix : "fn"},(err,data) => {
+      //   if(err) {
+      //     console.log("err")
+      //     console.log(err)
+      //   }else{
+      //     console.log("jsonp")
+      //     console.log(data)
+      //   }
+      // })
     }
   }
 </script>
