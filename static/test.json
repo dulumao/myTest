@@ -1,0 +1,28 @@
+{
+  "bafenzhiyi":[
+    {"home": "C1", "homeImg": "", "away": "D2", "awayImg": "", "startDate": "06月30日 星期六", "startTime": "22:00"},
+    {"home": "A1", "homeImg": "", "away": "B2", "awayImg": "", "startDate": "07月01日 星期日", "startTime": "02:00"},
+    {"home": "B1", "homeImg": "", "away": "A2", "awayImg": "", "startDate": "07月01日 星期日", "startTime": "22:00"},
+    {"home": "D1", "homeImg": "", "away": "C2", "awayImg": "", "startDate": "07月02日 星期一", "startTime": "02:00"},
+    {"home": "E1", "homeImg": "", "away": "F2", "awayImg": "", "startDate": "07月02日 星期一", "startTime": "22:00"},
+    {"home": "G1", "homeImg": "", "away": "H2", "awayImg": "", "startDate": "07月03日 星期二", "startTime": "02:00"},
+    {"home": "F1", "homeImg": "", "away": "E2", "awayImg": "", "startDate": "07月03日 星期二", "startTime": "22:00"},
+    {"home": "H1", "homeImg": "", "away": "G2", "awayImg": "", "startDate": "07月04日 星期三", "startTime": "02:00"}
+  ],
+  "sifenzhiyi": [
+    {"home": "十六强1胜方", "homeImg": "", "away": "十六强2胜方", "awayImg": "", "startDate": "07月06日 星期五", "startTime": "22:00"},
+    {"home": "十六强5胜方", "homeImg": "", "away": "十六强6胜方", "awayImg": "", "startDate": "07月07日 星期六", "startTime": "02:00"},
+    {"home": "十六强7胜方", "homeImg": "", "away": "十六强8胜方", "awayImg": "", "startDate": "07月07日 星期六", "startTime": "22:00"},
+    {"home": "十六强3胜方", "homeImg": "", "away": "十六强4胜方", "awayImg": "", "startDate": "07月08日 星期日", "startTime": "02:00"}
+  ],
+  "banjuesai": [
+    {"home": "八强1胜方", "homeImg": "", "away": "八强2胜方", "awayImg": "", "startDate": "07月11日 星期三", "startTime": "02:00"},
+    {"home": "八强3胜方", "homeImg": "", "away": "八强4胜方", "awayImg": "", "startDate": "07月12日 星期四", "startTime": "02:00"}
+  ],
+  "sansiming":[
+    {"home": "半决赛1负方", "homeImg": "", "away": "半决赛2负方", "awayImg": "", "startDate": "07月14日 星期六", "startTime": "22:00"}
+  ],
+  "juesai": [
+    {"home": "半决赛1胜方", "homeImg": "", "away": "半决赛2胜方", "awayImg": "", "startDate": "07月15日 星期日", "startTime": "23:00"}
+  ]
+}
