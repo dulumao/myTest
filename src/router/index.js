@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
-import vuexCs from '@/components/VuexCs'
+import VuexCs from '@/components/VuexCs'
 import Block from '@/components/Block'
-import echarts from '@/components/Echarts'
+import Echarts from '@/components/Echarts'
 import Webscoket from '@/components/Webscoket'
 import Fanyi from '@/components/Fanyi'
 
@@ -23,13 +23,13 @@ export default new Router({
     },
     {
       path: '/vuex',
-      name: 'vuex',
-      component: vuexCs
+      name: 'Vuex',
+      component: VuexCs
     },
     {
       path: '/echarts',
-      name: 'echarts',
-      component: echarts
+      name: 'Echarts',
+      component: Echarts
     },
     {
       path: '/block',
@@ -40,6 +40,6 @@ export default new Router({
       path: '/fanyi',
       name: 'Fanyi',
       component: Fanyi
-    }
+    },
   ]
 })
