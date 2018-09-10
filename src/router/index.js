@@ -14,7 +14,7 @@ export default new Router({
     {
       path: '/',
       name: 'Webscoket',
-      component: Webscoket
+      component: HelloWorld
     },
     {
       path: '/HelloWorld',

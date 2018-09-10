@@ -11,8 +11,6 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin')
 const OptimizeCSSPlugin = require('optimize-css-assets-webpack-plugin')
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
 
-const ClosureCompiler = require('google-closure-compiler-js').webpack;
-
 const env = process.env.NODE_ENV === 'testing'
   ? require('../config/test.env')
   : require('../config/prod.env')
@@ -36,17 +34,6 @@ const webpackConfig = merge(baseWebpackConfig, {
     new webpack.DefinePlugin({
       'process.env': env
     }),
-    // // google-closure-compiler-js
-    // new ClosureCompiler({
-    //   options: {
-    //     languageIn: 'ECMASCRIPT6',
-    //     languageOut: 'ECMASCRIPT5',
-    //     compilationLevel: 'SIMPLE',
-    //     warningLevel: 'QUIET',
-    //
-    //   },
-    // }),
-    // uglifyjs-webpack-plugin
     new webpack.optimize.UglifyJsPlugin({// 丑化压缩代码
       uglifyOptions: {
         compress: {

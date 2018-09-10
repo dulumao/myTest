@@ -12,11 +12,40 @@
       </div>
     </div>
     <ul>
+      <div>{{list[0]}}</div>
+      <div>{{list[1]}}</div>
+      <div>{{list[2]}}</div>
+      <div>{{list[3]}}</div>
+      <div>{{list[4]}}</div>
+      <div>{{list[5]}}</div>
       <template v-for="s in list">
         <li>{{s}}</li>
         <li>{{s.bb}}</li>
       </template>
     </ul>
+    <input type="date">
+    <b-btn v-b-modal.modal1>Launch demo modal</b-btn>
+    <br>
+    <br>
+    <br>
+    <br>
+    <label for="ipt">aaaaaa</label>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <input type="checkbox" onclick="return false" id="ipt">
+
+    <!-- Modal Component -->
+    <b-modal id="modal1" title="Bootstrap-Vue">
+      <p class="my-4">Hello from modal!</p>
+    </b-modal>
   </div>
 </template>
 
@@ -27,15 +56,22 @@
     data() {
       return {
         msg: 'Welcome to Your Vue.js App',
-        list: [{aaa:"aa", bb: "bb"}],
+        list: [{aaa:"aa", bb: "bb"}, 1, 2, 3],
       }
     },
     mounted: function(){
-      var mySwiper = new Swiper('.swiper-container', {
-        autoplay: {
-          disableOnInteraction: false,
-        }
-      })
+      // jsonp实现跨域
+      // this.axios.get("https://api.bitfinex.com/v2/tickers?symbols=ALL").then(req => {
+      //   let  data = req.data;
+      //   console.log(data);
+      // }).catch((req) => {
+      //   console.log(req);
+      // })
+      // var mySwiper = new Swiper('.swiper-container', {
+      //   autoplay: {
+      //     disableOnInteraction: false,
+      //   }
+      // })
       // 回调执行函数
       const _this = this;
       // function getUserAccount() {
@@ -147,17 +183,6 @@
       //   },
       //   data: {}
       // });
-      //jsonp实现跨域
-      // const jsonp = require("jsonp")
-      // jsonp("https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su", {params: {}, prefix : "fn"},(err,data) => {
-      //   if(err) {
-      //     console.log("err")
-      //     console.log(err)
-      //   }else{
-      //     console.log("jsonp")
-      //     console.log(data)
-      //   }
-      // })
     }
   }
 </script>

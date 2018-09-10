@@ -36,6 +36,21 @@
         function onRestoreOriginal() {
         }
       }
+    },
+    mounted: function () {
+      document.onreadystatechange = function () {
+        if (document.readyState == 'complete') {
+          Microsoft.Translator.Widget.Translate('zh-CHS', 'en', onProgress, onError, onComplete, onRestoreOriginal, 4000);
+        }
+      }
+      function onProgress(value) {
+      }
+      function onError(error) {
+      }
+      function onComplete() {
+      }
+      function onRestoreOriginal() {
+      }
     }
   }
 </script>
