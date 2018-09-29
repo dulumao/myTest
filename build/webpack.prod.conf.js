@@ -34,15 +34,10 @@ const webpackConfig = merge(baseWebpackConfig, {
     new webpack.DefinePlugin({
       'process.env': env
     }),
-    new webpack.optimize.UglifyJsPlugin({// 丑化压缩代码
+    new UglifyJsPlugin({
       uglifyOptions: {
         compress: {
-          warnings: false,
-          comparisons: false,
-          hoist_vars: true
-        },
-        mangle:{
-          toplevel : true
+          warnings: false
         }
       },
       sourceMap: config.build.productionSourceMap,

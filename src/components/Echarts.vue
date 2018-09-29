@@ -9,84 +9,184 @@
     mounted:function () {
       var echarts = require('echarts');
       var myChart = echarts.init($("#main")[0]);
-      var option;
-      $.get('./static/json.json', function (data) {
-        myChart.setOption(option = {
-          title: {
-            text: 'Beijing AQI',
+
+      var timeData = [ '2009/6/12 2:00', '2009/6/12 3:00', '2009/6/12 4:00', '2009/6/12 5:00', '2009/6/12 6:00', '2009/6/12 7:00', '2009/6/12 8:00', '2009/6/12 9:00', '2009/6/12 10:00'];
+
+      timeData = timeData.map(function (str) {
+        return str.replace('2009/', '');
+      });
+
+      let option = {
+        tooltip: {
+          trigger: 'axis',
+          axisPointer: {
+            animation: false
+          }
+        },
+        axisPointer: {
+          link: {xAxisIndex: 'all'}
+        },
+        dataZoom: [
+          {
+            show: true,
+            realtime: true,
+            start: 30,
+            end: 70,
+            xAxisIndex: [0, 1, 2]
           },
-          tooltip: {
-            trigger: 'axis'
-          },
-          xAxis: {
-            data: data.map(function (item) {
-              return item[0];
-            })
-          },
-          yAxis: {
+          {
+            type: 'inside',
+            realtime: true,
+            start: 30,
+            end: 70,
+            xAxisIndex: [0, 1, 2]
+          }
+        ],
+        grid: [{
+          left: 50,
+          right: 75,
+          height: '32%',
+          top: "5%",
+        }, {
+          left: 50,
+          right: 75,
+          top: '42%',
+          height: '20%'
+        }, {
+          left: 50,
+          right: 75,
+          top: '67%',
+          height: '20%'
+        },
+        ],
+        xAxis : [
+          {
+            type : 'category',
+            data: timeData,
+            axisLine: {
+              show: false,
+            },
+            axisTick: {
+              show: false,
+            },
+            axisLabel: {
+              show: false,
+            },
             splitLine: {
-              show: false
+              show: true
             }
           },
-          dataZoom: [{
-            startValue: '2014-06-01'
-          }, {
-            type: 'inside'
-          }],
-          visualMap: {
-            top: 10,
-            right: 10,
-            pieces: [{
-              gt: 0,
-              lte: 50,
-              color: '#096'
-            }, {
-              gt: 50,
-              lte: 100,
-              color: '#ffde33'
-            }, {
-              gt: 100,
-              lte: 150,
-              color: '#ff9933'
-            }, {
-              gt: 150,
-              lte: 200,
-              color: '#cc0033'
-            }, {
-              gt: 200,
-              lte: 300,
-              color: '#660099'
-            }, {
-              gt: 300,
-              color: '#7e0023'
-            }],
-            outOfRange: {
-              color: '#999'
+          {
+            gridIndex: 1,
+            type : 'category',
+            data: timeData,
+            axisLine: {
+              show: false,
+            },
+            axisTick: {
+              show: false,
+            },
+            axisLabel: {
+              show: false,
+            },
+            splitLine: {
+              show: true
             }
           },
-          series: {
-            name: 'Beijing',
-            type: 'line',
-            data: data.map(function (item) {
-              return item[1];
-            }),
-            markLine: {
-              silent: true,
-              data: [{
-                yAxis: 50
-              }, {
-                yAxis: 100
-              }, {
-                yAxis: 150
-              }, {
-                yAxis: 200
-              }, {
-                yAxis: 300
-              }]
+          {
+            gridIndex: 2,
+            type : 'category',
+            data: timeData,
+            axisLine: {
+              show: false,
+            },
+            axisTick: {
+              show: false,
+            },
+            splitLine: {
+              show: true
             }
           }
-        });
-      });
+        ],
+        yAxis : [
+          {
+            name : '流量(m^3/s)',
+            type : 'value',
+            position: 'right',
+            nameLocation : 'middle',
+            nameGap : 35,
+            axisLine: {
+              show: false,
+            },
+            axisTick: {
+              show: false,
+            },
+          },
+          {
+            gridIndex: 1,
+            name : '降雨量(mm)',
+            type : 'value',
+            position: 'right',
+            nameLocation : 'middle',
+            nameGap : 35,
+            axisLine: {
+              show: false,
+            },
+            axisTick: {
+              show: false,
+            },
+          },
+          {
+            gridIndex: 2,
+            name : '降雨量(mm)',
+            type : 'value',
+            position: 'right',
+            nameLocation : 'middle',
+            nameGap : 35,
+            axisLine: {
+              show: false,
+            },
+            axisTick: {
+              show: false,
+            },
+          }
+        ],
+        series : [
+          {
+            name:'流量',
+            type:'line',
+            symbolSize: 8,
+            hoverAnimation: false,
+            data:[3,2,1,3,2,1,3,2,1]
+          },
+          {
+            name:'流量1',
+            type:'line',
+            symbolSize: 8,
+            hoverAnimation: false,
+            data:[1,2,3,1,2,3,1,2,3]
+          },
+          {
+            name:'流量3',
+            type:'bar',
+            xAxisIndex: 1,
+            yAxisIndex: 1,
+            symbolSize: 8,
+            hoverAnimation: false,
+            data: [-1,2,3,-1,2,3,1,2,-3]
+          },
+          {
+            name:'降雨量',
+            type:'bar',
+            xAxisIndex: 2,
+            yAxisIndex: 2,
+            symbolSize: 8,
+            hoverAnimation: false,
+            data: [1,-2,3,1,2,-3,1,2,3]
+          }
+        ]
+      };
+      myChart.setOption(option)
     }
   }
 </script>
@@ -95,7 +195,6 @@
   .echarts-main{
     width: 100%;
     height: 500px;
-    border: 1px solid #000;
     margin: 20px auto;
   }
 </style>

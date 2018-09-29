@@ -56,10 +56,39 @@
     data() {
       return {
         msg: 'Welcome to Your Vue.js App',
+        vueColor: "red",
         list: [{aaa:"aa", bb: "bb"}, 1, 2, 3],
       }
     },
-    mounted: function(){
+    mounted: function() {
+      console.log(window.bgColor)
+      // $(document).ready(function(){
+      //   $.ajax({
+      //     type          : 'get',
+      //     async         : false,
+      //     url           : 'http://api.k780.com/?app=finance.rate&scur=USD&tcur=CNY&appkey=36605&sign=8929d0f0d84848a431447d4072835600&format=json&jsoncallback=data',
+      //     dataType      : 'jsonp',
+      //     jsonp         : 'callback',
+      //     jsonpCallback : 'data',
+      //     success       : function(data){
+      //       if(data.success!='1'){
+      //         alert(data.msgid+' '+data.msg);
+      //         exit;
+      //       }
+      //       console.log(data);
+      //       //遍历
+      //       var description = "";
+      //       for(var i in data.result){
+      //         var property=data.result[i];
+      //         description+=i+" = "+property+"\n";
+      //       }
+      //       console.log(description);
+      //     },
+      //     error:function(){
+      //       alert('fail');
+      //     }
+      //   });
+      // });
       // jsonp实现跨域
       // this.axios.get("https://api.bitfinex.com/v2/tickers?symbols=ALL").then(req => {
       //   let  data = req.data;
@@ -188,7 +217,7 @@
 </script>
 <style scoped lang="less" rel="stylesheet/less">
   @import "../assets/css/swiper.min.css";
-  @a: red;
+  @a: e('window.bgColor');
   .hello{
     .btn{
       color: @a

@@ -6,6 +6,7 @@ import Block from '@/components/Block'
 import Echarts from '@/components/Echarts'
 import Webscoket from '@/components/Webscoket'
 import Fanyi from '@/components/Fanyi'
+import TradingView from '@/components/TradingView'
 
 Vue.use(Router)
 
@@ -13,8 +14,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Webscoket',
-      component: HelloWorld
+      name: 'mian',
+      component: TradingView
+    },
+    {
+      path: '/TradingView',
+      name: 'TradingView',
+      component: TradingView
     },
     {
       path: '/HelloWorld',
