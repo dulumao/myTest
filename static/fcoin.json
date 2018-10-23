@@ -1,0 +1,3225 @@
+{
+  "aaaeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "aaaeth"
+    },
+    "b": "aaa",
+    "c": "eth"
+  },
+  "abteth": {
+    "a": {
+      "hb": "abteth",
+      "bt": "",
+      "ba": "",
+      "ok": "abteth",
+      "fc": "abteth"
+    },
+    "b": "abt",
+    "c": "eth"
+  },
+  "aeeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "AEETH",
+      "ok": "aeeth",
+      "fc": "aeeth"
+    },
+    "b": "ae",
+    "c": "eth"
+  },
+  "agieth": {
+    "a": {
+      "hb": "",
+      "bt": "agieth",
+      "ba": "AGIETH",
+      "ok": "",
+      "fc": "agieth"
+    },
+    "b": "agi",
+    "c": "eth"
+  },
+  "aidoceth": {
+    "a": {
+      "hb": "aidoceth",
+      "bt": "",
+      "ba": "",
+      "ok": "aidoceth",
+      "fc": "aidoceth"
+    },
+    "b": "aidoc",
+    "c": "eth"
+  },
+  "aioneth": {
+    "a": {
+      "hb": "",
+      "bt": "aioeth",
+      "ba": "AIONETH",
+      "ok": "",
+      "fc": "aioneth"
+    },
+    "b": "aion",
+    "c": "eth"
+  },
+  "aiteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "aiteth"
+    },
+    "b": "ait",
+    "c": "eth"
+  },
+  "aitusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "aitusdt"
+    },
+    "b": "ait",
+    "c": "usdt"
+  },
+  "arpeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "arpeth"
+    },
+    "b": "arp",
+    "c": "eth"
+  },
+  "ateth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ateth"
+    },
+    "b": "at",
+    "c": "eth"
+  },
+  "baiceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "baiceth"
+    },
+    "b": "baic",
+    "c": "eth"
+  },
+  "bancaeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bancaeth"
+    },
+    "b": "banca",
+    "c": "eth"
+  },
+  "bateth": {
+    "a": {
+      "hb": "bateth",
+      "bt": "bateth",
+      "ba": "BATETH",
+      "ok": "",
+      "fc": "bateth"
+    },
+    "b": "bat",
+    "c": "eth"
+  },
+  "bbceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bbceth"
+    },
+    "b": "bbc",
+    "c": "eth"
+  },
+  "bbcusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bbcusdt"
+    },
+    "b": "bbc",
+    "c": "usdt"
+  },
+  "bcg1eth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bcg1eth"
+    },
+    "b": "bcg1",
+    "c": "eth"
+  },
+  "bcg1usdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bcg1usdt"
+    },
+    "b": "bcg1",
+    "c": "usdt"
+  },
+  "bchbtc": {
+    "a": {
+      "hb": "bchbtc",
+      "bt": "bchbtc",
+      "ba": "BCHBTC",
+      "ok": "bchbtc",
+      "fc": "bchbtc"
+    },
+    "b": "bch",
+    "c": "btc"
+  },
+  "bchft": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bchft"
+    },
+    "b": "bch",
+    "c": "ft"
+  },
+  "bchusdt": {
+    "a": {
+      "hb": "bchusdt",
+      "bt": "bchusd",
+      "ba": "BCHUSDT",
+      "ok": "bchusdt",
+      "fc": "bchusdt"
+    },
+    "b": "bch",
+    "c": "usdt"
+  },
+  "beautyeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "beautyeth"
+    },
+    "b": "beauty",
+    "c": "eth"
+  },
+  "bfdteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bfdteth"
+    },
+    "b": "bfdt",
+    "c": "eth"
+  },
+  "bfteth": {
+    "a": {
+      "hb": "bfteth",
+      "bt": "bfteth",
+      "ba": "",
+      "ok": "",
+      "fc": "bfteth"
+    },
+    "b": "bft",
+    "c": "eth"
+  },
+  "bhpceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bhpceth"
+    },
+    "b": "bhpc",
+    "c": "eth"
+  },
+  "bixeth": {
+    "a": {
+      "hb": "bixeth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bixeth"
+    },
+    "b": "bix",
+    "c": "eth"
+  },
+  "bizeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bizeth"
+    },
+    "b": "biz",
+    "c": "eth"
+  },
+  "bkbteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bkbteth"
+    },
+    "b": "bkbt",
+    "c": "eth"
+  },
+  "blzeth": {
+    "a": {
+      "hb": "blzeth",
+      "bt": "",
+      "ba": "BLZETH",
+      "ok": "",
+      "fc": "blzeth"
+    },
+    "b": "blz",
+    "c": "eth"
+  },
+  "bnbusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "BNBUSDT",
+      "ok": "",
+      "fc": "bnbusdt"
+    },
+    "b": "bnb",
+    "c": "usdt"
+  },
+  "boceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "boceth"
+    },
+    "b": "boc",
+    "c": "eth"
+  },
+  "boxeth": {
+    "a": {
+      "hb": "boxeth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "boxeth"
+    },
+    "b": "box",
+    "c": "eth"
+  },
+  "brmeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "brmeth"
+    },
+    "b": "brm",
+    "c": "eth"
+  },
+  "btcusdt": {
+    "a": {
+      "hb": "btcusdt",
+      "bt": "btcusd",
+      "ba": "BTCUSDT",
+      "ok": "btcusdt",
+      "fc": ""
+    },
+    "b": "btc",
+    "c": "usdt"
+  },
+  "btmceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "btmceth"
+    },
+    "b": "btmc",
+    "c": "eth"
+  },
+  "btmcusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "btmcusdt"
+    },
+    "b": "btmc",
+    "c": "usdt"
+  },
+  "btmeth": {
+    "a": {
+      "hb": "btmeth",
+      "bt": "",
+      "ba": "",
+      "ok": "btmeth",
+      "fc": "btmeth"
+    },
+    "b": "btm",
+    "c": "eth"
+  },
+  "btmusdt": {
+    "a": {
+      "hb": "btmusdt",
+      "bt": "",
+      "ba": "",
+      "ok": "btmusdt",
+      "fc": "btmusdt"
+    },
+    "b": "btm",
+    "c": "usdt"
+  },
+  "buteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "buteth"
+    },
+    "b": "but",
+    "c": "eth"
+  },
+  "butusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "butusdt"
+    },
+    "b": "but",
+    "c": "usdt"
+  },
+  "bvbeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "bvbeth"
+    },
+    "b": "bvb",
+    "c": "eth"
+  },
+  "caieth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "caieth",
+      "fc": "caieth"
+    },
+    "b": "cai",
+    "c": "eth"
+  },
+  "cbreth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "cbreth"
+    },
+    "b": "cbr",
+    "c": "eth"
+  },
+  "ccceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ccceth"
+    },
+    "b": "ccc",
+    "c": "eth"
+  },
+  "cccxeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "cccxeth"
+    },
+    "b": "cccx",
+    "c": "eth"
+  },
+  "cccxusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "cccxusdt"
+    },
+    "b": "cccx",
+    "c": "usdt"
+  },
+  "citeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "citeth",
+      "fc": "citeth"
+    },
+    "b": "cit",
+    "c": "eth"
+  },
+  "citusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "citusdt"
+    },
+    "b": "cit",
+    "c": "usdt"
+  },
+  "cmteth": {
+    "a": {
+      "hb": "cmteth",
+      "bt": "",
+      "ba": "CMTETH",
+      "ok": "cmteth",
+      "fc": "cmteth"
+    },
+    "b": "cmt",
+    "c": "eth"
+  },
+  "cmtusdt": {
+    "a": {
+      "hb": "cmtusdt",
+      "bt": "",
+      "ba": "",
+      "ok": "cmtusdt",
+      "fc": "cmtusdt"
+    },
+    "b": "cmt",
+    "c": "usdt"
+  },
+  "cnmceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "cnmceth"
+    },
+    "b": "cnmc",
+    "c": "eth"
+  },
+  "cofieth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "cofieth"
+    },
+    "b": "cofi",
+    "c": "eth"
+  },
+  "cosmeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "cosmeth"
+    },
+    "b": "cosm",
+    "c": "eth"
+  },
+  "cpseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "cpseth"
+    },
+    "b": "cps",
+    "c": "eth"
+  },
+  "ctxceth": {
+    "a": {
+      "hb": "ctxceth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ctxceth"
+    },
+    "b": "ctxc",
+    "c": "eth"
+  },
+  "cvceth": {
+    "a": {
+      "hb": "cvceth",
+      "bt": "",
+      "ba": "CVCETH",
+      "ok": "cvceth",
+      "fc": "cvceth"
+    },
+    "b": "cvc",
+    "c": "eth"
+  },
+  "cwveth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "cwveth"
+    },
+    "b": "cwv",
+    "c": "eth"
+  },
+  "dacceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dacceth"
+    },
+    "b": "dacc",
+    "c": "eth"
+  },
+  "daceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "daceth"
+    },
+    "b": "dac",
+    "c": "eth"
+  },
+  "dadieth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "dadieth",
+      "fc": "dadieth"
+    },
+    "b": "dadi",
+    "c": "eth"
+  },
+  "dadiusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "dadiusdt",
+      "fc": "dadiusdt"
+    },
+    "b": "dadi",
+    "c": "usdt"
+  },
+  "dageth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dageth"
+    },
+    "b": "dag",
+    "c": "eth"
+  },
+  "dagteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dagteth"
+    },
+    "b": "dagt",
+    "c": "eth"
+  },
+  "dasheth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "DASHETH",
+      "ok": "dasheth",
+      "fc": "dasheth"
+    },
+    "b": "dash",
+    "c": "eth"
+  },
+  "datxeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "datxeth"
+    },
+    "b": "datx",
+    "c": "eth"
+  },
+  "dcceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dcceth"
+    },
+    "b": "dcc",
+    "c": "eth"
+  },
+  "denteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "DENTETH",
+      "ok": "denteth",
+      "fc": "denteth"
+    },
+    "b": "dent",
+    "c": "eth"
+  },
+  "dentusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "dentusdt",
+      "fc": "dentusdt"
+    },
+    "b": "dent",
+    "c": "usdt"
+  },
+  "dhteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dhteth"
+    },
+    "b": "dht",
+    "c": "eth"
+  },
+  "dpneth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dpneth"
+    },
+    "b": "dpn",
+    "c": "eth"
+  },
+  "dpnusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dpnusdt"
+    },
+    "b": "dpn",
+    "c": "usdt"
+  },
+  "drcteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "drcteth"
+    },
+    "b": "drct",
+    "c": "eth"
+  },
+  "drink1eth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "drink1eth"
+    },
+    "b": "drink1",
+    "c": "eth"
+  },
+  "drinketh": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "drinketh"
+    },
+    "b": "drink",
+    "c": "eth"
+  },
+  "drinkusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "drinkusdt"
+    },
+    "b": "drink",
+    "c": "usdt"
+  },
+  "dscoineth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dscoineth"
+    },
+    "b": "dscoin",
+    "c": "eth"
+  },
+  "dscoinusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dscoinusdt"
+    },
+    "b": "dscoin",
+    "c": "usdt"
+  },
+  "dtaeth": {
+    "a": {
+      "hb": "dtaeth",
+      "bt": "dtaeth",
+      "ba": "",
+      "ok": "",
+      "fc": "dtaeth"
+    },
+    "b": "dta",
+    "c": "eth"
+  },
+  "dwseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "dwseth"
+    },
+    "b": "dws",
+    "c": "eth"
+  },
+  "eaieth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "eaieth"
+    },
+    "b": "eai",
+    "c": "eth"
+  },
+  "edueth": {
+    "a": {
+      "hb": "edueth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "edueth"
+    },
+    "b": "edu",
+    "c": "eth"
+  },
+  "eduusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "eduusdt"
+    },
+    "b": "edu",
+    "c": "usdt"
+  },
+  "eeseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "eeseth"
+    },
+    "b": "ees",
+    "c": "eth"
+  },
+  "egt1eth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "egt1eth"
+    },
+    "b": "egt1",
+    "c": "eth"
+  },
+  "ejoyeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ejoyeth"
+    },
+    "b": "ejoy",
+    "c": "eth"
+  },
+  "enjeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "ENJETH",
+      "ok": "enjeth",
+      "fc": "enjeth"
+    },
+    "b": "enj",
+    "c": "eth"
+  },
+  "eosbtc": {
+    "a": {
+      "hb": "eosbtc",
+      "bt": "eosbtc",
+      "ba": "EOSBTC",
+      "ok": "eosbtc",
+      "fc": "eosbtc"
+    },
+    "b": "eos",
+    "c": "btc"
+  },
+  "eoseth": {
+    "a": {
+      "hb": "eoseth",
+      "bt": "eoseth",
+      "ba": "EOSETH",
+      "ok": "eoseth",
+      "fc": "eoseth"
+    },
+    "b": "eos",
+    "c": "eth"
+  },
+  "eosft": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "eosft"
+    },
+    "b": "eos",
+    "c": "ft"
+  },
+  "eosusdt": {
+    "a": {
+      "hb": "eosusdt",
+      "bt": "eosusd",
+      "ba": "EOSUSDT",
+      "ok": "eosusdt",
+      "fc": "eosusdt"
+    },
+    "b": "eos",
+    "c": "usdt"
+  },
+  "esteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "esteth"
+    },
+    "b": "est",
+    "c": "eth"
+  },
+  "etcbtc": {
+    "a": {
+      "hb": "etcbtc",
+      "bt": "etcbtc",
+      "ba": "ETCBTC",
+      "ok": "etcbtc",
+      "fc": "etcbtc"
+    },
+    "b": "etc",
+    "c": "btc"
+  },
+  "etceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "ETCETH",
+      "ok": "etceth",
+      "fc": "etceth"
+    },
+    "b": "etc",
+    "c": "eth"
+  },
+  "etcft": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "etcft"
+    },
+    "b": "etc",
+    "c": "ft"
+  },
+  "etcusdt": {
+    "a": {
+      "hb": "etcusdt",
+      "bt": "etcusd",
+      "ba": "ETCUSDT",
+      "ok": "etcusdt",
+      "fc": "etcusdt"
+    },
+    "b": "etc",
+    "c": "usdt"
+  },
+  "ethbtc": {
+    "a": {
+      "hb": "ethbtc",
+      "bt": "ethbtc",
+      "ba": "ETHBTC",
+      "ok": "ethbtc",
+      "fc": "ethbtc"
+    },
+    "b": "eth",
+    "c": "btc"
+  },
+  "ethusdt": {
+    "a": {
+      "hb": "ethusdt",
+      "bt": "ethusd",
+      "ba": "ETHUSDT",
+      "ok": "ethusdt",
+      "fc": "ethusdt"
+    },
+    "b": "eth",
+    "c": "usdt"
+  },
+  "facceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "facceth"
+    },
+    "b": "facc",
+    "c": "eth"
+  },
+  "faireth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "faireth",
+      "fc": "faireth"
+    },
+    "b": "fair",
+    "c": "eth"
+  },
+  "fcandyusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "fcandyusdt"
+    },
+    "b": "fcandy",
+    "c": "usdt"
+  },
+  "fffeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "fffeth"
+    },
+    "b": "fff",
+    "c": "eth"
+  },
+  "fieth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "fieth"
+    },
+    "b": "fi",
+    "c": "eth"
+  },
+  "fisheth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "fisheth"
+    },
+    "b": "fish",
+    "c": "eth"
+  },
+  "fiusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "fiusdt"
+    },
+    "b": "fi",
+    "c": "usdt"
+  },
+  "fotaeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "fotaeth"
+    },
+    "b": "fota",
+    "c": "eth"
+  },
+  "freseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "freseth"
+    },
+    "b": "fres",
+    "c": "eth"
+  },
+  "ft1808usdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ft1808usdt"
+    },
+    "b": "ft1808",
+    "c": "usdt"
+  },
+  "ft1809usdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ft1809usdt"
+    },
+    "b": "ft1809",
+    "c": "usdt"
+  },
+  "ft1810_iusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ft1810_iusdt"
+    },
+    "b": "ft1810_i",
+    "c": "usdt"
+  },
+  "ftbtc": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ftbtc"
+    },
+    "b": "ft",
+    "c": "btc"
+  },
+  "fteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "fteth"
+    },
+    "b": "ft",
+    "c": "eth"
+  },
+  "ftft1808": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ftft1808"
+    },
+    "b": "ft",
+    "c": "ft1808"
+  },
+  "ftft1810_i": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ftft1810_i"
+    },
+    "b": "ft",
+    "c": "ft1808"
+  },
+  "ftieth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ftieth"
+    },
+    "b": "fti",
+    "c": "eth"
+  },
+  "ftusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ftusdt"
+    },
+    "b": "ft",
+    "c": "usdt"
+  },
+  "fueleth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "fueleth"
+    },
+    "b": "fuel",
+    "c": "eth"
+  },
+  "funeth": {
+    "a": {
+      "hb": "",
+      "bt": "funeth",
+      "ba": "FUNETH",
+      "ok": "funeth",
+      "fc": "funeth"
+    },
+    "b": "fun",
+    "c": "eth"
+  },
+  "geneeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "geneeth"
+    },
+    "b": "gene",
+    "c": "eth"
+  },
+  "geseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "geseth"
+    },
+    "b": "ges",
+    "c": "eth"
+  },
+  "gnxeth": {
+    "a": {
+      "hb": "gnxeth",
+      "bt": "",
+      "ba": "",
+      "ok": "gnxeth",
+      "fc": "gnxeth"
+    },
+    "b": "gnx",
+    "c": "eth"
+  },
+  "grameth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "grameth"
+    },
+    "b": "gram",
+    "c": "eth"
+  },
+  "gseeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "gseeth"
+    },
+    "b": "gse",
+    "c": "eth"
+  },
+  "gtceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "gtceth"
+    },
+    "b": "gtc",
+    "c": "eth"
+  },
+  "gtcft": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "gtcft"
+    },
+    "b": "gtc",
+    "c": "ft"
+  },
+  "gtoeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "GTOETH",
+      "ok": "gtoeth",
+      "fc": "gtoeth"
+    },
+    "b": "gto",
+    "c": "eth"
+  },
+  "guseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "guseth"
+    },
+    "b": "gus",
+    "c": "eth"
+  },
+  "guusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "guusdt"
+    },
+    "b": "gu",
+    "c": "usdt"
+  },
+  "hotceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "hotceth"
+    },
+    "b": "hotc",
+    "c": "eth"
+  },
+  "hoteth": {
+    "a": {
+      "hb": "",
+      "bt": "hoteth",
+      "ba": "HOTETH",
+      "ok": "hoteth",
+      "fc": "hoteth"
+    },
+    "b": "hot",
+    "c": "eth"
+  },
+  "hpbeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "hpbeth",
+      "fc": "hpbeth"
+    },
+    "b": "hpb",
+    "c": "eth"
+  },
+  "hpceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "hpceth"
+    },
+    "b": "hpc",
+    "c": "eth"
+  },
+  "hpcusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "hpcusdt"
+    },
+    "b": "hpc",
+    "c": "usdt"
+  },
+  "icceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "icceth"
+    },
+    "b": "icc",
+    "c": "eth"
+  },
+  "iccusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "iccusdt"
+    },
+    "b": "icc",
+    "c": "usdt"
+  },
+  "icneth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "ICNETH",
+      "ok": "icneth",
+      "fc": "icneth"
+    },
+    "b": "icn",
+    "c": "eth"
+  },
+  "icsteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "icsteth"
+    },
+    "b": "icst",
+    "c": "eth"
+  },
+  "icstusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "icstusdt"
+    },
+    "b": "icst",
+    "c": "usdt"
+  },
+  "icxeth": {
+    "a": {
+      "hb": "icxeth",
+      "bt": "",
+      "ba": "ICXETH",
+      "ok": "icxeth",
+      "fc": "icxeth"
+    },
+    "b": "icx",
+    "c": "eth"
+  },
+  "ifisheth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ifisheth"
+    },
+    "b": "ifish",
+    "c": "eth"
+  },
+  "ifoodeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ifoodeth"
+    },
+    "b": "ifood",
+    "c": "eth"
+  },
+  "ihteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ihteth"
+    },
+    "b": "iht",
+    "c": "eth"
+  },
+  "iiceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "iiceth"
+    },
+    "b": "iic",
+    "c": "eth"
+  },
+  "inketh": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "inketh"
+    },
+    "b": "ink",
+    "c": "eth"
+  },
+  "inteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "inteth",
+      "fc": "inteth"
+    },
+    "b": "int",
+    "c": "eth"
+  },
+  "inveeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "inveeth"
+    },
+    "b": "inve",
+    "c": "eth"
+  },
+  "inveusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "inveusdt"
+    },
+    "b": "inve",
+    "c": "usdt"
+  },
+  "ionceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ionceth"
+    },
+    "b": "ionc",
+    "c": "eth"
+  },
+  "iosteth": {
+    "a": {
+      "hb": "iosteth",
+      "bt": "ioseth",
+      "ba": "IOSTETH",
+      "ok": "iosteth",
+      "fc": "iosteth"
+    },
+    "b": "iost",
+    "c": "eth"
+  },
+  "iotabtc": {
+    "a": {
+      "hb": "iotabtc",
+      "bt": "iotbtc",
+      "ba": "IOTABTC",
+      "ok": "iotabtc",
+      "fc": "iotabtc"
+    },
+    "b": "iota",
+    "c": "btc"
+  },
+  "iotaeth": {
+    "a": {
+      "hb": "iotaeth",
+      "bt": "ioteth",
+      "ba": "IOTAETH",
+      "ok": "iotaeth",
+      "fc": "iotaeth"
+    },
+    "b": "iota",
+    "c": "eth"
+  },
+  "iotaft": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "iotaft"
+    },
+    "b": "iota",
+    "c": "ft"
+  },
+  "iotausdt": {
+    "a": {
+      "hb": "iotausdt",
+      "bt": "iotusd",
+      "ba": "IOTAUSDT",
+      "ok": "iotausdt",
+      "fc": "iotausdt"
+    },
+    "b": "iota",
+    "c": "usdt"
+  },
+  "ioveth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ioveth"
+    },
+    "b": "iov",
+    "c": "eth"
+  },
+  "iteaceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "iteaceth"
+    },
+    "b": "iteac",
+    "c": "eth"
+  },
+  "iteacusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "iteacusdt"
+    },
+    "b": "iteac",
+    "c": "usdt"
+  },
+  "jaceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "jaceth"
+    },
+    "b": "jac",
+    "c": "eth"
+  },
+  "jacusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "jacusdt"
+    },
+    "b": "jac",
+    "c": "usdt"
+  },
+  "jlleth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "jlleth"
+    },
+    "b": "jll",
+    "c": "eth"
+  },
+  "jllusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "jllusdt"
+    },
+    "b": "jll",
+    "c": "usdt"
+  },
+  "kaneth": {
+    "a": {
+      "hb": "kaneth",
+      "bt": "",
+      "ba": "",
+      "ok": "kaneth",
+      "fc": "kaneth"
+    },
+    "b": "kan",
+    "c": "eth"
+  },
+  "kcasheth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "kcasheth",
+      "fc": "kcasheth"
+    },
+    "b": "kcash",
+    "c": "eth"
+  },
+  "knceth": {
+    "a": {
+      "hb": "knceth",
+      "bt": "knceth",
+      "ba": "KNCETH",
+      "ok": "knceth",
+      "fc": "knceth"
+    },
+    "b": "knc",
+    "c": "eth"
+  },
+  "koraeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "koraeth"
+    },
+    "b": "kora",
+    "c": "eth"
+  },
+  "latxeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "latxeth"
+    },
+    "b": "latx",
+    "c": "eth"
+  },
+  "lbaeth": {
+    "a": {
+      "hb": "lbaeth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "lbaeth"
+    },
+    "b": "lba",
+    "c": "eth"
+  },
+  "leteth": {
+    "a": {
+      "hb": "leteth",
+      "bt": "",
+      "ba": "",
+      "ok": "leteth",
+      "fc": "leteth"
+    },
+    "b": "let",
+    "c": "eth"
+  },
+  "linketh": {
+    "a": {
+      "hb": "linketh",
+      "bt": "",
+      "ba": "LINKETH",
+      "ok": "linketh",
+      "fc": "linketh"
+    },
+    "b": "link",
+    "c": "eth"
+  },
+  "linkusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "linkusdt",
+      "fc": "linkusdt"
+    },
+    "b": "link",
+    "c": "usdt"
+  },
+  "lmmeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "lmmeth"
+    },
+    "b": "lmm",
+    "c": "eth"
+  },
+  "loometh": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "loometh"
+    },
+    "b": "loom",
+    "c": "eth"
+  },
+  "lrceth": {
+    "a": {
+      "hb": "",
+      "bt": "lrceth",
+      "ba": "LRCETH",
+      "ok": "lrceth",
+      "fc": "lrceth"
+    },
+    "b": "lrc",
+    "c": "eth"
+  },
+  "ltcbtc": {
+    "a": {
+      "hb": "ltcbtc",
+      "bt": "ltcbtc",
+      "ba": "LTCBTC",
+      "ok": "ltcbtc",
+      "fc": "ltcbtc"
+    },
+    "b": "ltc",
+    "c": "btc"
+  },
+  "ltceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "LTCETH",
+      "ok": "ltceth",
+      "fc": "ltceth"
+    },
+    "b": "ltc",
+    "c": "eth"
+  },
+  "ltcft": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ltcft"
+    },
+    "b": "ltc",
+    "c": "ft"
+  },
+  "ltcusdt": {
+    "a": {
+      "hb": "ltcusdt",
+      "bt": "ltcusd",
+      "ba": "LTCUSDT",
+      "ok": "ltcusdt",
+      "fc": "ltcusdt"
+    },
+    "b": "ltc",
+    "c": "usdt"
+  },
+  "ltheth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ltheth"
+    },
+    "b": "lth",
+    "c": "eth"
+  },
+  "lthusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "lthusdt"
+    },
+    "b": "lth",
+    "c": "usdt"
+  },
+  "lxteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "lxteth"
+    },
+    "b": "lxt",
+    "c": "eth"
+  },
+  "manaeth": {
+    "a": {
+      "hb": "manaeth",
+      "bt": "",
+      "ba": "MANAETH",
+      "ok": "manaeth",
+      "fc": "manaeth"
+    },
+    "b": "mana",
+    "c": "eth"
+  },
+  "manausdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "manausdt",
+      "fc": "manausdt"
+    },
+    "b": "mana",
+    "c": "usdt"
+  },
+  "mayaeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "mayaeth"
+    },
+    "b": "maya",
+    "c": "eth"
+  },
+  "mcoeth": {
+    "a": {
+      "hb": "mcoeth",
+      "bt": "",
+      "ba": "MCOETH",
+      "ok": "mcoeth",
+      "fc": "mcoeth"
+    },
+    "b": "mco",
+    "c": "eth"
+  },
+  "mdseth": {
+    "a": {
+      "hb": "mdseth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "mdseth"
+    },
+    "b": "mds",
+    "c": "eth"
+  },
+  "mdteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "mdteth",
+      "fc": "mdteth"
+    },
+    "b": "mdt",
+    "c": "eth"
+  },
+  "meetoneeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "meetoneeth"
+    },
+    "b": "meetone",
+    "c": "eth"
+  },
+  "mesheth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "mesheth"
+    },
+    "b": "mesh",
+    "c": "eth"
+  },
+  "mitheth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "mitheth",
+      "fc": "mitheth"
+    },
+    "b": "mith",
+    "c": "eth"
+  },
+  "mitxeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "mitxeth"
+    },
+    "b": "mitx",
+    "c": "eth"
+  },
+  "mofeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "mofeth",
+      "fc": "mofeth"
+    },
+    "b": "mof",
+    "c": "eth"
+  },
+  "moleth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "moleth"
+    },
+    "b": "mol",
+    "c": "eth"
+  },
+  "molusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "molusdt"
+    },
+    "b": "mol",
+    "c": "usdt"
+  },
+  "moteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "moteth",
+      "fc": "moteth"
+    },
+    "b": "mot",
+    "c": "eth"
+  },
+  "msceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "msceth"
+    },
+    "b": "msc",
+    "c": "eth"
+  },
+  "musketh": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "musketh"
+    },
+    "b": "musk",
+    "c": "eth"
+  },
+  "mvpeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "mvpeth",
+      "fc": "mvpeth"
+    },
+    "b": "mvp",
+    "c": "eth"
+  },
+  "mxmeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "mxmeth"
+    },
+    "b": "mxm",
+    "c": "eth"
+  },
+  "nanjeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "nanjeth"
+    },
+    "b": "nanj",
+    "c": "eth"
+  },
+  "nanjusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "nanjusdt"
+    },
+    "b": "nanj",
+    "c": "usdt"
+  },
+  "nceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "nceth"
+    },
+    "b": "nc",
+    "c": "eth"
+  },
+  "newoseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "newoseth"
+    },
+    "b": "newos",
+    "c": "eth"
+  },
+  "ngoteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ngoteth"
+    },
+    "b": "ngot",
+    "c": "eth"
+  },
+  "npxseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "npxseth"
+    },
+    "b": "npxs",
+    "c": "eth"
+  },
+  "oaseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "oaseth"
+    },
+    "b": "oas",
+    "c": "eth"
+  },
+  "ocneth": {
+    "a": {
+      "hb": "ocneth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ocneth"
+    },
+    "b": "ocn",
+    "c": "eth"
+  },
+  "oleeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "oleeth"
+    },
+    "b": "ole",
+    "c": "eth"
+  },
+  "olteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "olteth"
+    },
+    "b": "olt",
+    "c": "eth"
+  },
+  "omgeth": {
+    "a": {
+      "hb": "omgeth",
+      "bt": "omgeth",
+      "ba": "OMGETH",
+      "ok": "omgeth",
+      "fc": "omgeth"
+    },
+    "b": "omg",
+    "c": "eth"
+  },
+  "ormeeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ormeeth"
+    },
+    "b": "orme",
+    "c": "eth"
+  },
+  "orseth": {
+    "a": {
+      "hb": "",
+      "bt": "orseth",
+      "ba": "",
+      "ok": "orseth",
+      "fc": "orseth"
+    },
+    "b": "ors",
+    "c": "eth"
+  },
+  "oscheth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "oscheth"
+    },
+    "b": "osch",
+    "c": "eth"
+  },
+  "osteth": {
+    "a": {
+      "hb": "osteth",
+      "bt": "",
+      "ba": "OSTETH",
+      "ok": "osteth",
+      "fc": "osteth"
+    },
+    "b": "ost",
+    "c": "eth"
+  },
+  "ostusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "ostusdt",
+      "fc": "ostusdt"
+    },
+    "b": "ost",
+    "c": "usdt"
+  },
+  "paieth": {
+    "a": {
+      "hb": "paieth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "paieth"
+    },
+    "b": "pai",
+    "c": "eth"
+  },
+  "payeth": {
+    "a": {
+      "hb": "payeth",
+      "bt": "",
+      "ba": "",
+      "ok": "payeth",
+      "fc": "payeth"
+    },
+    "b": "pay",
+    "c": "eth"
+  },
+  "pmdeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "pmdeth"
+    },
+    "b": "pmd",
+    "c": "eth"
+  },
+  "pnteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "pnteth"
+    },
+    "b": "pnt",
+    "c": "eth"
+  },
+  "poaeth": {
+    "a": {
+      "hb": "",
+      "bt": "poaeth",
+      "ba": "POAETH",
+      "ok": "",
+      "fc": "poaeth"
+    },
+    "b": "poa",
+    "c": "eth"
+  },
+  "poeeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "POEETH",
+      "ok": "poeeth",
+      "fc": "poeeth"
+    },
+    "b": "poe",
+    "c": "eth"
+  },
+  "poketh": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "poketh"
+    },
+    "b": "pok",
+    "c": "eth"
+  },
+  "polyeth": {
+    "a": {
+      "hb": "polyeth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "polyeth"
+    },
+    "b": "poly",
+    "c": "eth"
+  },
+  "polyusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "polyusdt"
+    },
+    "b": "poly",
+    "c": "usdt"
+  },
+  "ppteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "PPTETH",
+      "ok": "ppteth",
+      "fc": "ppteth"
+    },
+    "b": "ppt",
+    "c": "eth"
+  },
+  "praeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "praeth",
+      "fc": "praeth"
+    },
+    "b": "pra",
+    "c": "eth"
+  },
+  "prausdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "prausdt",
+      "fc": "prausdt"
+    },
+    "b": "pra",
+    "c": "usdt"
+  },
+  "ptteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ptteth"
+    },
+    "b": "ptt",
+    "c": "eth"
+  },
+  "pttusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "pttusdt"
+    },
+    "b": "ptt",
+    "c": "usdt"
+  },
+  "puneth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "puneth"
+    },
+    "b": "pun",
+    "c": "eth"
+  },
+  "qkceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "qkceth"
+    },
+    "b": "qkc",
+    "c": "eth"
+  },
+  "qoseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "qoseth"
+    },
+    "b": "qos",
+    "c": "eth"
+  },
+  "qspeth": {
+    "a": {
+      "hb": "qspeth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "qspeth"
+    },
+    "b": "qsp",
+    "c": "eth"
+  },
+  "qspusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "qspusdt"
+    },
+    "b": "qsp",
+    "c": "usdt"
+  },
+  "rcteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "rcteth",
+      "fc": "rcteth"
+    },
+    "b": "rct",
+    "c": "eth"
+  },
+  "risketh": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "risketh"
+    },
+    "b": "risk",
+    "c": "eth"
+  },
+  "rnteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "rnteth",
+      "fc": "rnteth"
+    },
+    "b": "rnt",
+    "c": "eth"
+  },
+  "rrceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "rrceth"
+    },
+    "b": "rrc",
+    "c": "eth"
+  },
+  "rteeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "rteeth"
+    },
+    "b": "rte",
+    "c": "eth"
+  },
+  "ruffeth": {
+    "a": {
+      "hb": "ruffeth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ruffeth"
+    },
+    "b": "ruff",
+    "c": "eth"
+  },
+  "saceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "saceth"
+    },
+    "b": "sac",
+    "c": "eth"
+  },
+  "sacusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "sacusdt"
+    },
+    "b": "sac",
+    "c": "usdt"
+  },
+  "scleth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "scleth"
+    },
+    "b": "scl",
+    "c": "eth"
+  },
+  "sctketh": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "sctketh"
+    },
+    "b": "sctk",
+    "c": "eth"
+  },
+  "sctkusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "sctkusdt"
+    },
+    "b": "sctk",
+    "c": "usdt"
+  },
+  "sdaeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "sdaeth",
+      "fc": "sdaeth"
+    },
+    "b": "sda",
+    "c": "eth"
+  },
+  "seceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "seceth"
+    },
+    "b": "sec",
+    "c": "eth"
+  },
+  "seeeth": {
+    "a": {
+      "hb": "",
+      "bt": "seeeth",
+      "ba": "",
+      "ok": "",
+      "fc": "seeeth"
+    },
+    "b": "see",
+    "c": "eth"
+  },
+  "sgcceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "sgcceth"
+    },
+    "b": "sgcc",
+    "c": "eth"
+  },
+  "showeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "showeth",
+      "fc": "showeth"
+    },
+    "b": "show",
+    "c": "eth"
+  },
+  "smteth": {
+    "a": {
+      "hb": "smteth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "smteth"
+    },
+    "b": "smt",
+    "c": "eth"
+  },
+  "snteth": {
+    "a": {
+      "hb": "",
+      "bt": "snteth",
+      "ba": "SNTETH",
+      "ok": "snteth",
+      "fc": "snteth"
+    },
+    "b": "snt",
+    "c": "eth"
+  },
+  "soceth": {
+    "a": {
+      "hb": "soceth",
+      "bt": "",
+      "ba": "",
+      "ok": "soceth",
+      "fc": "soceth"
+    },
+    "b": "soc",
+    "c": "eth"
+  },
+  "ssseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ssseth"
+    },
+    "b": "sss",
+    "c": "eth"
+  },
+  "taceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "taceth"
+    },
+    "b": "tac",
+    "c": "eth"
+  },
+  "tateth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "tateth"
+    },
+    "b": "tat",
+    "c": "eth"
+  },
+  "tcteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "tcteth",
+      "fc": "tcteth"
+    },
+    "b": "tct",
+    "c": "eth"
+  },
+  "tkteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "tkteth"
+    },
+    "b": "tkt",
+    "c": "eth"
+  },
+  "tnbeth": {
+    "a": {
+      "hb": "tnbeth",
+      "bt": "tnbeth",
+      "ba": "TNBETH",
+      "ok": "tnbeth",
+      "fc": "tnbeth"
+    },
+    "b": "tnb",
+    "c": "eth"
+  },
+  "tnbusdt": {
+    "a": {
+      "hb": "",
+      "bt": "tnbusd",
+      "ba": "",
+      "ok": "tnbusdt",
+      "fc": "tnbusdt"
+    },
+    "b": "tnb",
+    "c": "usdt"
+  },
+  "toseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "toseth"
+    },
+    "b": "tos",
+    "c": "eth"
+  },
+  "tsteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "tsteth"
+    },
+    "b": "tst",
+    "c": "eth"
+  },
+  "tstusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "tstusdt"
+    },
+    "b": "tst",
+    "c": "usdt"
+  },
+  "uenceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "uenceth"
+    },
+    "b": "uenc",
+    "c": "eth"
+  },
+  "uencusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "uencusdt"
+    },
+    "b": "uenc",
+    "c": "usdt"
+  },
+  "ugceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "ugceth",
+      "fc": "ugceth"
+    },
+    "b": "ugc",
+    "c": "eth"
+  },
+  "unceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "unceth"
+    },
+    "b": "unc",
+    "c": "eth"
+  },
+  "utoeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "utoeth"
+    },
+    "b": "uto",
+    "c": "eth"
+  },
+  "vaaceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "vaaceth"
+    },
+    "b": "vaac",
+    "c": "eth"
+  },
+  "vboometh": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "vboometh"
+    },
+    "b": "vboom",
+    "c": "eth"
+  },
+  "vcteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "vcteth"
+    },
+    "b": "vct",
+    "c": "eth"
+  },
+  "vlceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "vlceth"
+    },
+    "b": "vlc",
+    "c": "eth"
+  },
+  "vnteth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "vnteth"
+    },
+    "b": "vnt",
+    "c": "eth"
+  },
+  "vppeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "vppeth"
+    },
+    "b": "vpp",
+    "c": "eth"
+  },
+  "vppusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "vppusdt"
+    },
+    "b": "vpp",
+    "c": "usdt"
+  },
+  "wicceth": {
+    "a": {
+      "hb": "wicceth",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "wicceth"
+    },
+    "b": "wicc",
+    "c": "eth"
+  },
+  "wineth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "wineth",
+      "fc": "wineth"
+    },
+    "b": "win",
+    "c": "eth"
+  },
+  "wseceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "wseceth"
+    },
+    "b": "wsec",
+    "c": "eth"
+  },
+  "wtceth": {
+    "a": {
+      "hb": "wtceth",
+      "bt": "",
+      "ba": "WTCETH",
+      "ok": "wtceth",
+      "fc": "wtceth"
+    },
+    "b": "wtc",
+    "c": "eth"
+  },
+  "wteeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "wteeth"
+    },
+    "b": "wte",
+    "c": "eth"
+  },
+  "xineth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "xineth"
+    },
+    "b": "xin",
+    "c": "eth"
+  },
+  "xmxeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "xmxeth"
+    },
+    "b": "xmx",
+    "c": "eth"
+  },
+  "xpseth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "xpseth"
+    },
+    "b": "xps",
+    "c": "eth"
+  },
+  "xpsusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "xpsusdt"
+    },
+    "b": "xps",
+    "c": "usdt"
+  },
+  "xrpbtc": {
+    "a": {
+      "hb": "xrpbtc",
+      "bt": "xrpbtc",
+      "ba": "XRPBTC",
+      "ok": "xrpbtc",
+      "fc": "xrpbtc"
+    },
+    "b": "xrp",
+    "c": "btc"
+  },
+  "xrpeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "XRPETH",
+      "ok": "xrpeth",
+      "fc": "xrpeth"
+    },
+    "b": "xrp",
+    "c": "eth"
+  },
+  "xrpft": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "xrpft"
+    },
+    "b": "xrp",
+    "c": "ft"
+  },
+  "xrpusdt": {
+    "a": {
+      "hb": "xrpusdt",
+      "bt": "xrpusd",
+      "ba": "XRPUSDT",
+      "ok": "xrpusdt",
+      "fc": "xrpusdt"
+    },
+    "b": "xrp",
+    "c": "usdt"
+  },
+  "yeeeth": {
+    "a": {
+      "hb": "yeeeth",
+      "bt": "",
+      "ba": "",
+      "ok": "yeeeth",
+      "fc": "yeeeth"
+    },
+    "b": "yee",
+    "c": "eth"
+  },
+  "ykceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "ykceth"
+    },
+    "b": "ykc",
+    "c": "eth"
+  },
+  "youeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "youeth",
+      "fc": "youeth"
+    },
+    "b": "you",
+    "c": "eth"
+  },
+  "zeceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "ZECETH",
+      "ok": "zeceth",
+      "fc": "zeceth"
+    },
+    "b": "zec",
+    "c": "eth"
+  },
+  "zileth": {
+    "a": {
+      "hb": "zileth",
+      "bt": "zileth",
+      "ba": "ZILETH",
+      "ok": "zileth",
+      "fc": "zileth"
+    },
+    "b": "zil",
+    "c": "eth"
+  },
+  "zipeth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "zipeth",
+      "fc": "zipeth"
+    },
+    "b": "zip",
+    "c": "eth"
+  },
+  "zipusdt": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "zipusdt",
+      "fc": "zipusdt"
+    },
+    "b": "zip",
+    "c": "usdt"
+  },
+  "zrxeth": {
+    "a": {
+      "hb": "zrxeth",
+      "bt": "zrxeth",
+      "ba": "ZRXETH",
+      "ok": "zrxeth",
+      "fc": "zrxeth"
+    },
+    "b": "zrx",
+    "c": "eth"
+  },
+  "zsceth": {
+    "a": {
+      "hb": "",
+      "bt": "",
+      "ba": "",
+      "ok": "",
+      "fc": "zsceth"
+    },
+    "b": "zsc",
+    "c": "eth"
+  }
+}

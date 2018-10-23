@@ -58,10 +58,111 @@
         msg: 'Welcome to Your Vue.js App',
         vueColor: "red",
         list: [{aaa:"aa", bb: "bb"}, 1, 2, 3],
+        symbolAllObj: {},
       }
     },
     mounted: function() {
-      console.log(window.bgColor)
+      const _this = this;
+      function getHuobiDetail() {
+        return _this.axios.get('/static/huobi.json');
+      }
+      function getBitfinexDetail() {
+        return _this.axios.get('/static/bitfinex.json');
+      }
+      function getBinanceDetail() {
+        return _this.axios.get('/static/binance.json');
+      }
+      function getOkexDetail() {
+        return _this.axios.get('/static/okex.json');
+      }
+      function getFcoinDetail() {
+        return _this.axios.get('/static/fcoin.json');
+      }
+      this.axios.all([getHuobiDetail(), getBitfinexDetail(), getBinanceDetail(), getOkexDetail(),getFcoinDetail()])
+        .then(_this.axios.spread(function (data1, data2, data3, data4, data5) {
+          _this.symbolAllObj.huobi = data1.data;
+          _this.symbolAllObj.bitfinex = data2.data;
+          _this.symbolAllObj.binance = data3.data;
+          _this.symbolAllObj.okex = data4.data;
+          _this.symbolAllObj.fcoin = data5.data;
+
+          for(let key in _this.symbolAllObj.fcoin) {
+            let symbol = key;
+            let val = _this.symbolAllObj.fcoin[key];
+            if (_this.symbolAllObj.huobi[key]) {
+              let thisObjA = _this.symbolAllObj.huobi[key].a
+              for (let key2 in thisObjA) {
+                let val2 = thisObjA[key2];
+                if (thisObjA[key2] != "") {
+                  if (key2 == 'hb') {
+                    _this.symbolAllObj.fcoin[symbol].a.hb = thisObjA.hb;
+                    _this.symbolAllObj.huobi[val2].a.fc = symbol;
+                  } else if (key2 == 'bt') {
+                    _this.symbolAllObj.fcoin[symbol].a.bt = thisObjA.bt;
+                    _this.symbolAllObj.bitfinex[val2].a.fc = symbol;
+                  } else if (key2 == 'ba') {
+                    _this.symbolAllObj.fcoin[symbol].a.ba = thisObjA.ba;
+                    _this.symbolAllObj.binance[val2].a.fc = symbol;
+                  } else if (key2 == 'ok') {
+                    _this.symbolAllObj.fcoin[symbol].a.ok = thisObjA.ok;
+                    _this.symbolAllObj.okex[val2].a.fc = symbol;
+                  }
+                }
+              }
+            } else if (_this.symbolAllObj.okex[key]) {
+              let thisObjA = _this.symbolAllObj.okex[key].a
+              for (let key2 in thisObjA) {
+                let val2 = thisObjA[key2];
+                if (thisObjA[key2] != "") {
+                  if (key2 == 'bt') {
+                    _this.symbolAllObj.fcoin[symbol].a.bt = thisObjA.bt;
+                    _this.symbolAllObj.bitfinex[val2].a.fc = symbol;
+                  } else if (key2 == 'ba') {
+                    _this.symbolAllObj.fcoin[symbol].a.ba = thisObjA.ba;
+                    _this.symbolAllObj.binance[val2].a.fc = symbol;
+                  } else if (key2 == 'ok') {
+                    _this.symbolAllObj.fcoin[symbol].a.ok = thisObjA.ok;
+                    _this.symbolAllObj.okex[val2].a.fc = symbol;
+                  }
+                }
+              }
+            } else if (_this.symbolAllObj.binance[key]) {
+              let thisObjA = _this.symbolAllObj.binance[key].a
+              for (let key2 in thisObjA) {
+                let val2 = thisObjA[key2];
+                if (thisObjA[key2] != "") {
+                  if (key2 == 'ba') {
+                    _this.symbolAllObj.fcoin[symbol].a.ba = thisObjA.ba;
+                    _this.symbolAllObj.binance[val2].a.fc = symbol;
+                  } else if (key2 == 'bt') {
+                    _this.symbolAllObj.fcoin[symbol].a.bt = thisObjA.bt;
+                    _this.symbolAllObj.bitfinex[val2].a.fc = symbol;
+                  }
+                }
+              }
+            } else if (_this.symbolAllObj.bitfinex[key]) {
+              let thisObjA = _this.symbolAllObj.bitfinex[key].a
+              for (let key2 in thisObjA) {
+                let val2 = thisObjA[key2];
+                if (thisObjA[key2] != "") {
+                  if (key2 == 'bt') {
+                    _this.symbolAllObj.fcoin[symbol].a.bt = thisObjA.bt;
+                    _this.symbolAllObj.bitfinex[val2].a.fc = symbol;
+                  }
+                }
+              }
+            }
+          }
+          //输出 执行交易所
+          let exchange = "okex";
+          for(let key3 in _this.symbolAllObj[exchange]){
+            if(_this.symbolAllObj[exchange][key3].a.fc == undefined || _this.symbolAllObj[exchange][key3].a.fc == ""){
+              _this.symbolAllObj[exchange][key3].a.fc = '';
+            }
+          }
+          console.log(JSON.stringify(_this.symbolAllObj[exchange]));
+        }));
+
       // $(document).ready(function(){
       //   $.ajax({
       //     type          : 'get',
@@ -102,7 +203,7 @@
       //   }
       // })
       // 回调执行函数
-      const _this = this;
+
       // function getUserAccount() {
       //   return _this.axios.get('/static/beauty10gt10.csv');
       // }

@@ -7,6 +7,7 @@ import Echarts from '@/components/Echarts'
 import Webscoket from '@/components/Webscoket'
 import Fanyi from '@/components/Fanyi'
 import TradingView from '@/components/TradingView'
+import PayPwd from '@/components/PayPwd'
 
 Vue.use(Router)
 
@@ -15,12 +16,17 @@ export default new Router({
     {
       path: '/',
       name: 'mian',
-      component: TradingView
+      component: HelloWorld
     },
     {
       path: '/TradingView',
       name: 'TradingView',
       component: TradingView
+    },
+    {
+      path: '/PayPwd',
+      name: 'PayPwd',
+      component: PayPwd
     },
     {
       path: '/HelloWorld',

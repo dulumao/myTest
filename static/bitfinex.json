@@ -1,0 +1,3027 @@
+{
+  "abseth": {
+    "a": {
+      "hb": "",
+      "bt": "abseth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "abs",
+    "c": "eth"
+  },
+  "absusd": {
+    "a": {
+      "hb": "",
+      "bt": "absusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "abs",
+    "c": "usd"
+  },
+  "agibtc": {
+    "a": {
+      "hb": "",
+      "bt": "agibtc",
+      "ba": "AGIBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "agi",
+    "c": "btc"
+  },
+  "agieth": {
+    "a": {
+      "hb": "",
+      "bt": "agieth",
+      "ba": "AGIETH",
+      "ok": "",
+      "fc": "agieth"
+    },
+    "b": "agi",
+    "c": "eth"
+  },
+  "agiusd": {
+    "a": {
+      "hb": "",
+      "bt": "agiusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "agi",
+    "c": "usd"
+  },
+  "aidbtc": {
+    "a": {
+      "hb": "",
+      "bt": "aidbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "aid",
+    "c": "btc"
+  },
+  "aideth": {
+    "a": {
+      "hb": "",
+      "bt": "aideth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "aid",
+    "c": "eth"
+  },
+  "aidusd": {
+    "a": {
+      "hb": "",
+      "bt": "aidusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "aid",
+    "c": "usd"
+  },
+  "aiobtc": {
+    "a": {
+      "hb": "",
+      "bt": "aiobtc",
+      "ba": "AIONBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "aio",
+    "c": "btc"
+  },
+  "aioeth": {
+    "a": {
+      "hb": "",
+      "bt": "aioeth",
+      "ba": "AIONETH",
+      "ok": "",
+      "fc": "aioneth"
+    },
+    "b": "aio",
+    "c": "eth"
+  },
+  "aiousd": {
+    "a": {
+      "hb": "",
+      "bt": "aiousd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "aio",
+    "c": "usd"
+  },
+  "antbtc": {
+    "a": {
+      "hb": "",
+      "bt": "antbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ant",
+    "c": "btc"
+  },
+  "anteth": {
+    "a": {
+      "hb": "",
+      "bt": "anteth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ant",
+    "c": "eth"
+  },
+  "antusd": {
+    "a": {
+      "hb": "",
+      "bt": "antusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ant",
+    "c": "usd"
+  },
+  "atmbtc": {
+    "a": {
+      "hb": "",
+      "bt": "atmbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "atm",
+    "c": "btc"
+  },
+  "atmeth": {
+    "a": {
+      "hb": "",
+      "bt": "atmeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "atm",
+    "c": "eth"
+  },
+  "atmusd": {
+    "a": {
+      "hb": "",
+      "bt": "atmusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "atm",
+    "c": "usd"
+  },
+  "aucbtc": {
+    "a": {
+      "hb": "",
+      "bt": "aucbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "auc",
+    "c": "btc"
+  },
+  "auceth": {
+    "a": {
+      "hb": "",
+      "bt": "auceth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "auc",
+    "c": "eth"
+  },
+  "aucusd": {
+    "a": {
+      "hb": "",
+      "bt": "aucusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "auc",
+    "c": "usd"
+  },
+  "avtbtc": {
+    "a": {
+      "hb": "",
+      "bt": "avtbtc",
+      "ba": "",
+      "ok": "avtbtc",
+      "fc": ""
+    },
+    "b": "avt",
+    "c": "btc"
+  },
+  "avteth": {
+    "a": {
+      "hb": "",
+      "bt": "avteth",
+      "ba": "",
+      "ok": "avteth",
+      "fc": ""
+    },
+    "b": "avt",
+    "c": "eth"
+  },
+  "avtusd": {
+    "a": {
+      "hb": "",
+      "bt": "avtusd",
+      "ba": "",
+      "ok": "avtusdt",
+      "fc": ""
+    },
+    "b": "avt",
+    "c": "usd"
+  },
+  "batbtc": {
+    "a": {
+      "hb": "batbtc",
+      "bt": "batbtc",
+      "ba": "BATBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "bat",
+    "c": "btc"
+  },
+  "bateth": {
+    "a": {
+      "hb": "bateth",
+      "bt": "bateth",
+      "ba": "BATETH",
+      "ok": "",
+      "fc": "bateth"
+    },
+    "b": "bat",
+    "c": "eth"
+  },
+  "batusd": {
+    "a": {
+      "hb": "",
+      "bt": "batusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "bat",
+    "c": "usd"
+  },
+  "bbneth": {
+    "a": {
+      "hb": "",
+      "bt": "bbneth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "bbn",
+    "c": "eth"
+  },
+  "bbnusd": {
+    "a": {
+      "hb": "",
+      "bt": "bbnusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "bbn",
+    "c": "usd"
+  },
+  "bchbtc": {
+    "a": {
+      "hb": "bchbtc",
+      "bt": "bchbtc",
+      "ba": "",
+      "ok": "bchbtc",
+      "fc": "bchbtc"
+    },
+    "b": "bch",
+    "c": "btc"
+  },
+  "bcheth": {
+    "a": {
+      "hb": "",
+      "bt": "bcheth",
+      "ba": "",
+      "ok": "bcheth",
+      "fc": ""
+    },
+    "b": "bch",
+    "c": "eth"
+  },
+  "bchusd": {
+    "a": {
+      "hb": "bchusdt",
+      "bt": "bchusd",
+      "ba": "",
+      "ok": "bchusdt",
+      "fc": "bchusdt"
+    },
+    "b": "bch",
+    "c": "usd"
+  },
+  "bcibtc": {
+    "a": {
+      "hb": "",
+      "bt": "bcibtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "bci",
+    "c": "btc"
+  },
+  "bciusd": {
+    "a": {
+      "hb": "",
+      "bt": "bciusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "bci",
+    "c": "usd"
+  },
+  "bftbtc": {
+    "a": {
+      "hb": "bftbtc",
+      "bt": "bftbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "bft",
+    "c": "btc"
+  },
+  "bfteth": {
+    "a": {
+      "hb": "bfteth",
+      "bt": "bfteth",
+      "ba": "",
+      "ok": "",
+      "fc": "bfteth"
+    },
+    "b": "bft",
+    "c": "eth"
+  },
+  "bftusd": {
+    "a": {
+      "hb": "",
+      "bt": "bftusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "bft",
+    "c": "usd"
+  },
+  "bntbtc": {
+    "a": {
+      "hb": "",
+      "bt": "bntbtc",
+      "ba": "BNTBTC",
+      "ok": "bntbtc",
+      "fc": ""
+    },
+    "b": "bnt",
+    "c": "btc"
+  },
+  "bnteth": {
+    "a": {
+      "hb": "",
+      "bt": "bnteth",
+      "ba": "BNTETH",
+      "ok": "bnteth",
+      "fc": ""
+    },
+    "b": "bnt",
+    "c": "eth"
+  },
+  "bntusd": {
+    "a": {
+      "hb": "",
+      "bt": "bntusd",
+      "ba": "",
+      "ok": "bntusdt",
+      "fc": ""
+    },
+    "b": "bnt",
+    "c": "usd"
+  },
+  "btceur": {
+    "a": {
+      "hb": "",
+      "bt": "btceur",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "btc",
+    "c": "eur"
+  },
+  "btcgbp": {
+    "a": {
+      "hb": "",
+      "bt": "btcgbp",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "btc",
+    "c": "gbp"
+  },
+  "btcjpy": {
+    "a": {
+      "hb": "",
+      "bt": "btcjpy",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "btc",
+    "c": "jpy"
+  },
+  "btcusd": {
+    "a": {
+      "hb": "btcusdt",
+      "bt": "btcusd",
+      "ba": "BTCUSDT",
+      "ok": "btcusdt",
+      "fc": "btcusdt"
+    },
+    "b": "btc",
+    "c": "usd"
+  },
+  "btgbtc": {
+    "a": {
+      "hb": "btgbtc",
+      "bt": "btgbtc",
+      "ba": "BTGBTC",
+      "ok": "btgbtc",
+      "fc": ""
+    },
+    "b": "btg",
+    "c": "btc"
+  },
+  "btgusd": {
+    "a": {
+      "hb": "",
+      "bt": "btgusd",
+      "ba": "",
+      "ok": "btgusdt",
+      "fc": ""
+    },
+    "b": "btg",
+    "c": "usd"
+  },
+  "cbtbtc": {
+    "a": {
+      "hb": "",
+      "bt": "cbtbtc",
+      "ba": "",
+      "ok": "cbtbtc",
+      "fc": ""
+    },
+    "b": "cbt",
+    "c": "btc"
+  },
+  "cbteth": {
+    "a": {
+      "hb": "",
+      "bt": "cbteth",
+      "ba": "",
+      "ok": "cbteth",
+      "fc": ""
+    },
+    "b": "cbt",
+    "c": "eth"
+  },
+  "cbtusd": {
+    "a": {
+      "hb": "",
+      "bt": "cbtusd",
+      "ba": "",
+      "ok": "cbtusdt",
+      "fc": ""
+    },
+    "b": "cbt",
+    "c": "usd"
+  },
+  "cfibtc": {
+    "a": {
+      "hb": "",
+      "bt": "cfibtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "cfi",
+    "c": "btc"
+  },
+  "cfieth": {
+    "a": {
+      "hb": "",
+      "bt": "cfieth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "cfi",
+    "c": "eth"
+  },
+  "cfiusd": {
+    "a": {
+      "hb": "",
+      "bt": "cfiusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "cfi",
+    "c": "usd"
+  },
+  "cndbtc": {
+    "a": {
+      "hb": "",
+      "bt": "cndbtc",
+      "ba": "CNDBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "cnd",
+    "c": "btc"
+  },
+  "cndeth": {
+    "a": {
+      "hb": "",
+      "bt": "cndeth",
+      "ba": "CNDETH",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "cnd",
+    "c": "eth"
+  },
+  "cndusd": {
+    "a": {
+      "hb": "",
+      "bt": "cndusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "cnd",
+    "c": "usd"
+  },
+  "ctxbtc": {
+    "a": {
+      "hb": "",
+      "bt": "ctxbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ctx",
+    "c": "btc"
+  },
+  "ctxeth": {
+    "a": {
+      "hb": "",
+      "bt": "ctxeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ctx",
+    "c": "eth"
+  },
+  "ctxusd": {
+    "a": {
+      "hb": "",
+      "bt": "ctxusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ctx",
+    "c": "usd"
+  },
+  "dadbtc": {
+    "a": {
+      "hb": "",
+      "bt": "dadbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dad",
+    "c": "btc"
+  },
+  "dadeth": {
+    "a": {
+      "hb": "",
+      "bt": "dadeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dad",
+    "c": "eth"
+  },
+  "dadusd": {
+    "a": {
+      "hb": "",
+      "bt": "dadusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dad",
+    "c": "usd"
+  },
+  "daibtc": {
+    "a": {
+      "hb": "",
+      "bt": "daibtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dai",
+    "c": "btc"
+  },
+  "daieth": {
+    "a": {
+      "hb": "",
+      "bt": "daieth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dai",
+    "c": "eth"
+  },
+  "daiusd": {
+    "a": {
+      "hb": "",
+      "bt": "daiusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dai",
+    "c": "usd"
+  },
+  "datbtc": {
+    "a": {
+      "hb": "datbtc",
+      "bt": "datbtc",
+      "ba": "",
+      "ok": "datbtc",
+      "fc": ""
+    },
+    "b": "dat",
+    "c": "btc"
+  },
+  "dateth": {
+    "a": {
+      "hb": "dateth",
+      "bt": "dateth",
+      "ba": "",
+      "ok": "dateth",
+      "fc": ""
+    },
+    "b": "dat",
+    "c": "eth"
+  },
+  "datusd": {
+    "a": {
+      "hb": "",
+      "bt": "datusd",
+      "ba": "",
+      "ok": "datusdt",
+      "fc": ""
+    },
+    "b": "dat",
+    "c": "usd"
+  },
+  "dgxeth": {
+    "a": {
+      "hb": "",
+      "bt": "dgxeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dgx",
+    "c": "eth"
+  },
+  "dgxusd": {
+    "a": {
+      "hb": "",
+      "bt": "dgxusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dgx",
+    "c": "usd"
+  },
+  "dshbtc": {
+    "a": {
+      "hb": "",
+      "bt": "dshbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dsh",
+    "c": "btc"
+  },
+  "dshusd": {
+    "a": {
+      "hb": "",
+      "bt": "dshusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dsh",
+    "c": "usd"
+  },
+  "dtabtc": {
+    "a": {
+      "hb": "dtabtc",
+      "bt": "dtabtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dta",
+    "c": "btc"
+  },
+  "dtaeth": {
+    "a": {
+      "hb": "dtaeth",
+      "bt": "dtaeth",
+      "ba": "",
+      "ok": "",
+      "fc": "dtaeth"
+    },
+    "b": "dta",
+    "c": "eth"
+  },
+  "dtausd": {
+    "a": {
+      "hb": "dtausdt",
+      "bt": "dtausd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dta",
+    "c": "usd"
+  },
+  "dthbtc": {
+    "a": {
+      "hb": "",
+      "bt": "dthbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dth",
+    "c": "btc"
+  },
+  "dtheth": {
+    "a": {
+      "hb": "",
+      "bt": "dtheth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dth",
+    "c": "eth"
+  },
+  "dthusd": {
+    "a": {
+      "hb": "",
+      "bt": "dthusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "dth",
+    "c": "usd"
+  },
+  "edobtc": {
+    "a": {
+      "hb": "",
+      "bt": "edobtc",
+      "ba": "EDOBTC",
+      "ok": "edobtc",
+      "fc": ""
+    },
+    "b": "edo",
+    "c": "btc"
+  },
+  "edoeth": {
+    "a": {
+      "hb": "",
+      "bt": "edoeth",
+      "ba": "EDOETH",
+      "ok": "edoeth",
+      "fc": ""
+    },
+    "b": "edo",
+    "c": "eth"
+  },
+  "edousd": {
+    "a": {
+      "hb": "",
+      "bt": "edousd",
+      "ba": "",
+      "ok": "edousdt",
+      "fc": ""
+    },
+    "b": "edo",
+    "c": "usd"
+  },
+  "elfbtc": {
+    "a": {
+      "hb": "elfbtc",
+      "bt": "elfbtc",
+      "ba": "ELFBTC",
+      "ok": "elfbtc",
+      "fc": ""
+    },
+    "b": "elf",
+    "c": "btc"
+  },
+  "elfeth": {
+    "a": {
+      "hb": "elfeth",
+      "bt": "elfeth",
+      "ba": "ELFETH",
+      "ok": "elfeth",
+      "fc": ""
+    },
+    "b": "elf",
+    "c": "eth"
+  },
+  "elfusd": {
+    "a": {
+      "hb": "elfusdt",
+      "bt": "elfusd",
+      "ba": "",
+      "ok": "elfusdt",
+      "fc": ""
+    },
+    "b": "elf",
+    "c": "usd"
+  },
+  "eosbtc": {
+    "a": {
+      "hb": "eosbtc",
+      "bt": "eosbtc",
+      "ba": "EOSBTC",
+      "ok": "eosbtc",
+      "fc": "eosbtc"
+    },
+    "b": "eos",
+    "c": "btc"
+  },
+  "eoseth": {
+    "a": {
+      "hb": "eoseth",
+      "bt": "eoseth",
+      "ba": "EOSETH",
+      "ok": "eoseth",
+      "fc": "eoseth"
+    },
+    "b": "eos",
+    "c": "eth"
+  },
+  "eoseur": {
+    "a": {
+      "hb": "",
+      "bt": "eoseur",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "eos",
+    "c": "eur"
+  },
+  "eosgbp": {
+    "a": {
+      "hb": "",
+      "bt": "eosgbp",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "eos",
+    "c": "gbp"
+  },
+  "eosjpy": {
+    "a": {
+      "hb": "",
+      "bt": "eosjpy",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "eos",
+    "c": "jpy"
+  },
+  "eosusd": {
+    "a": {
+      "hb": "eosusdt",
+      "bt": "eosusd",
+      "ba": "EOSUSDT",
+      "ok": "eosusdt",
+      "fc": "eosusdt"
+    },
+    "b": "eos",
+    "c": "usd"
+  },
+  "essbtc": {
+    "a": {
+      "hb": "",
+      "bt": "essbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ess",
+    "c": "btc"
+  },
+  "esseth": {
+    "a": {
+      "hb": "",
+      "bt": "esseth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ess",
+    "c": "eth"
+  },
+  "essusd": {
+    "a": {
+      "hb": "",
+      "bt": "essusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ess",
+    "c": "usd"
+  },
+  "etcbtc": {
+    "a": {
+      "hb": "etcbtc",
+      "bt": "etcbtc",
+      "ba": "ETCBTC",
+      "ok": "etcbtc",
+      "fc": "etcbtc"
+    },
+    "b": "etc",
+    "c": "btc"
+  },
+  "etcusd": {
+    "a": {
+      "hb": "etcusdt",
+      "bt": "etcusd",
+      "ba": "ETCUSDT",
+      "ok": "etcusdt",
+      "fc": "etcusdt"
+    },
+    "b": "etc",
+    "c": "usd"
+  },
+  "ethbtc": {
+    "a": {
+      "hb": "ethbtc",
+      "bt": "ethbtc",
+      "ba": "ETHBTC",
+      "ok": "ethbtc",
+      "fc": "ethbtc"
+    },
+    "b": "eth",
+    "c": "btc"
+  },
+  "etheur": {
+    "a": {
+      "hb": "",
+      "bt": "etheur",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "eth",
+    "c": "eur"
+  },
+  "ethgbp": {
+    "a": {
+      "hb": "",
+      "bt": "ethgbp",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "eth",
+    "c": "gbp"
+  },
+  "ethjpy": {
+    "a": {
+      "hb": "",
+      "bt": "ethjpy",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "eth",
+    "c": "jpy"
+  },
+  "ethusd": {
+    "a": {
+      "hb": "ethusdt",
+      "bt": "ethusd",
+      "ba": "ETHUSDT",
+      "ok": "ethusdt",
+      "fc": "ethusdt"
+    },
+    "b": "eth",
+    "c": "usd"
+  },
+  "etpbtc": {
+    "a": {
+      "hb": "",
+      "bt": "etpbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "etp",
+    "c": "btc"
+  },
+  "etpeth": {
+    "a": {
+      "hb": "",
+      "bt": "etpeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "etp",
+    "c": "eth"
+  },
+  "etpusd": {
+    "a": {
+      "hb": "",
+      "bt": "etpusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "etp",
+    "c": "usd"
+  },
+  "fsnbtc": {
+    "a": {
+      "hb": "",
+      "bt": "fsnbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "fsn",
+    "c": "btc"
+  },
+  "fsneth": {
+    "a": {
+      "hb": "",
+      "bt": "fsneth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "fsn",
+    "c": "eth"
+  },
+  "fsnusd": {
+    "a": {
+      "hb": "",
+      "bt": "fsnusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "fsn",
+    "c": "usd"
+  },
+  "funbtc": {
+    "a": {
+      "hb": "",
+      "bt": "funbtc",
+      "ba": "FUNBTC",
+      "ok": "funbtc",
+      "fc": ""
+    },
+    "b": "fun",
+    "c": "btc"
+  },
+  "funeth": {
+    "a": {
+      "hb": "",
+      "bt": "funeth",
+      "ba": "FUNETH",
+      "ok": "funeth",
+      "fc": "funeth"
+    },
+    "b": "fun",
+    "c": "eth"
+  },
+  "funusd": {
+    "a": {
+      "hb": "",
+      "bt": "funusd",
+      "ba": "",
+      "ok": "funusdt",
+      "fc": ""
+    },
+    "b": "fun",
+    "c": "usd"
+  },
+  "gntbtc": {
+    "a": {
+      "hb": "gntbtc",
+      "bt": "gntbtc",
+      "ba": "GNTBTC",
+      "ok": "gntbtc",
+      "fc": ""
+    },
+    "b": "gnt",
+    "c": "btc"
+  },
+  "gnteth": {
+    "a": {
+      "hb": "gnteth",
+      "bt": "gnteth",
+      "ba": "GNTETH",
+      "ok": "gnteth",
+      "fc": ""
+    },
+    "b": "gnt",
+    "c": "eth"
+  },
+  "gntusd": {
+    "a": {
+      "hb": "gntusdt",
+      "bt": "gntusd",
+      "ba": "",
+      "ok": "gntusdt",
+      "fc": ""
+    },
+    "b": "gnt",
+    "c": "usd"
+  },
+  "hotbtc": {
+    "a": {
+      "hb": "",
+      "bt": "hotbtc",
+      "ba": "HOTBTC",
+      "ok": "hotbtc",
+      "fc": ""
+    },
+    "b": "hot",
+    "c": "btc"
+  },
+  "hoteth": {
+    "a": {
+      "hb": "",
+      "bt": "hoteth",
+      "ba": "HOTETH",
+      "ok": "hoteth",
+      "fc": "hoteth"
+    },
+    "b": "hot",
+    "c": "eth"
+  },
+  "hotusd": {
+    "a": {
+      "hb": "",
+      "bt": "hotusd",
+      "ba": "",
+      "ok": "hotusdt",
+      "fc": ""
+    },
+    "b": "hot",
+    "c": "usd"
+  },
+  "iosbtc": {
+    "a": {
+      "hb": "iostbtc",
+      "bt": "iosbtc",
+      "ba": "IOSTBTC",
+      "ok": "iostbtc",
+      "fc": ""
+    },
+    "b": "ios",
+    "c": "btc"
+  },
+  "ioseth": {
+    "a": {
+      "hb": "iosteth",
+      "bt": "ioseth",
+      "ba": "IOSTETH",
+      "ok": "iosteth",
+      "fc": "iosteth"
+    },
+    "b": "ios",
+    "c": "eth"
+  },
+  "iosusd": {
+    "a": {
+      "hb": "iostusdt",
+      "bt": "iosusd",
+      "ba": "",
+      "ok": "iostusdt",
+      "fc": ""
+    },
+    "b": "ios",
+    "c": "usd"
+  },
+  "iotbtc": {
+    "a": {
+      "hb": "iotabtc",
+      "bt": "iotbtc",
+      "ba": "IOTABTC",
+      "ok": "iotabtc",
+      "fc": "iotabtc"
+    },
+    "b": "iot",
+    "c": "btc"
+  },
+  "ioteth": {
+    "a": {
+      "hb": "iotaeth",
+      "bt": "ioteth",
+      "ba": "IOTAETH",
+      "ok": "iotaeth",
+      "fc": "iotaeth"
+    },
+    "b": "iot",
+    "c": "eth"
+  },
+  "ioteur": {
+    "a": {
+      "hb": "",
+      "bt": "ioteur",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "iot",
+    "c": "eur"
+  },
+  "iotgbp": {
+    "a": {
+      "hb": "",
+      "bt": "iotgbp",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "iot",
+    "c": "gbp"
+  },
+  "iotjpy": {
+    "a": {
+      "hb": "",
+      "bt": "iotjpy",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "iot",
+    "c": "jpy"
+  },
+  "iotusd": {
+    "a": {
+      "hb": "iotausdt",
+      "bt": "iotusd",
+      "ba": "IOTAUSDT",
+      "ok": "iotausdt",
+      "fc": "iotausdt"
+    },
+    "b": "iot",
+    "c": "usd"
+  },
+  "iqxbtc": {
+    "a": {
+      "hb": "",
+      "bt": "iqxbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "iqx",
+    "c": "btc"
+  },
+  "iqxeos": {
+    "a": {
+      "hb": "",
+      "bt": "iqxeos",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "iqx",
+    "c": "eos"
+  },
+  "iqxusd": {
+    "a": {
+      "hb": "",
+      "bt": "iqxusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "iqx",
+    "c": "usd"
+  },
+  "kncbtc": {
+    "a": {
+      "hb": "kncbtc",
+      "bt": "kncbtc",
+      "ba": "KNCBTC",
+      "ok": "kncbtc",
+      "fc": ""
+    },
+    "b": "knc",
+    "c": "btc"
+  },
+  "knceth": {
+    "a": {
+      "hb": "knceth",
+      "bt": "knceth",
+      "ba": "KNCETH",
+      "ok": "knceth",
+      "fc": "knceth"
+    },
+    "b": "knc",
+    "c": "eth"
+  },
+  "kncusd": {
+    "a": {
+      "hb": "",
+      "bt": "kncusd",
+      "ba": "",
+      "ok": "kncusdt",
+      "fc": ""
+    },
+    "b": "knc",
+    "c": "usd"
+  },
+  "lrcbtc": {
+    "a": {
+      "hb": "",
+      "bt": "lrcbtc",
+      "ba": "LRCBTC",
+      "ok": "lrcbtc",
+      "fc": ""
+    },
+    "b": "lrc",
+    "c": "btc"
+  },
+  "lrceth": {
+    "a": {
+      "hb": "",
+      "bt": "lrceth",
+      "ba": "LRCETH",
+      "ok": "lrceth",
+      "fc": "lrceth"
+    },
+    "b": "lrc",
+    "c": "eth"
+  },
+  "lrcusd": {
+    "a": {
+      "hb": "",
+      "bt": "lrcusd",
+      "ba": "",
+      "ok": "lrcusdt",
+      "fc": ""
+    },
+    "b": "lrc",
+    "c": "usd"
+  },
+  "ltcbtc": {
+    "a": {
+      "hb": "ltcbtc",
+      "bt": "ltcbtc",
+      "ba": "LTCBTC",
+      "ok": "ltcbtc",
+      "fc": "ltcbtc"
+    },
+    "b": "ltc",
+    "c": "btc"
+  },
+  "ltcusd": {
+    "a": {
+      "hb": "ltcusdt",
+      "bt": "ltcusd",
+      "ba": "LTCUSDT",
+      "ok": "ltcusdt",
+      "fc": "ltcusdt"
+    },
+    "b": "ltc",
+    "c": "usd"
+  },
+  "lymbtc": {
+    "a": {
+      "hb": "",
+      "bt": "lymbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "lym",
+    "c": "btc"
+  },
+  "lymeth": {
+    "a": {
+      "hb": "",
+      "bt": "lymeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "lym",
+    "c": "eth"
+  },
+  "lymusd": {
+    "a": {
+      "hb": "",
+      "bt": "lymusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "lym",
+    "c": "usd"
+  },
+  "maneth": {
+    "a": {
+      "hb": "",
+      "bt": "maneth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "man",
+    "c": "eth"
+  },
+  "manusd": {
+    "a": {
+      "hb": "",
+      "bt": "manusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "man",
+    "c": "usd"
+  },
+  "mitbtc": {
+    "a": {
+      "hb": "",
+      "bt": "mitbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mit",
+    "c": "btc"
+  },
+  "miteth": {
+    "a": {
+      "hb": "",
+      "bt": "miteth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mit",
+    "c": "eth"
+  },
+  "mitusd": {
+    "a": {
+      "hb": "",
+      "bt": "mitusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mit",
+    "c": "usd"
+  },
+  "mkrbtc": {
+    "a": {
+      "hb": "",
+      "bt": "mkrbtc",
+      "ba": "",
+      "ok": "mkrbtc",
+      "fc": ""
+    },
+    "b": "mkr",
+    "c": "btc"
+  },
+  "mkreth": {
+    "a": {
+      "hb": "",
+      "bt": "mkreth",
+      "ba": "",
+      "ok": "mkreth",
+      "fc": ""
+    },
+    "b": "mkr",
+    "c": "eth"
+  },
+  "mkrusd": {
+    "a": {
+      "hb": "",
+      "bt": "mkrusd",
+      "ba": "",
+      "ok": "mkrusdt",
+      "fc": ""
+    },
+    "b": "mkr",
+    "c": "usd"
+  },
+  "mnabtc": {
+    "a": {
+      "hb": "",
+      "bt": "mnabtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mna",
+    "c": "btc"
+  },
+  "mnaeth": {
+    "a": {
+      "hb": "",
+      "bt": "mnaeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mna",
+    "c": "eth"
+  },
+  "mnausd": {
+    "a": {
+      "hb": "",
+      "bt": "mnausd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mna",
+    "c": "usd"
+  },
+  "mtnbtc": {
+    "a": {
+      "hb": "mtnbtc",
+      "bt": "mtnbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mtn",
+    "c": "btc"
+  },
+  "mtneth": {
+    "a": {
+      "hb": "mtneth",
+      "bt": "mtneth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mtn",
+    "c": "eth"
+  },
+  "mtnusd": {
+    "a": {
+      "hb": "",
+      "bt": "mtnusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "mtn",
+    "c": "usd"
+  },
+  "ncabtc": {
+    "a": {
+      "hb": "ncashbtc",
+      "bt": "ncabtc",
+      "ba": "NCASHBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "nca",
+    "c": "btc"
+  },
+  "ncaeth": {
+    "a": {
+      "hb": "ncasheth",
+      "bt": "ncaeth",
+      "ba": "NCASHETH",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "nca",
+    "c": "eth"
+  },
+  "ncausd": {
+    "a": {
+      "hb": "",
+      "bt": "ncausd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "nca",
+    "c": "usd"
+  },
+  "neobtc": {
+    "a": {
+      "hb": "neobtc",
+      "bt": "neobtc",
+      "ba": "NEOBTC",
+      "ok": "neobtc",
+      "fc": ""
+    },
+    "b": "neo",
+    "c": "btc"
+  },
+  "neoeth": {
+    "a": {
+      "hb": "",
+      "bt": "neoeth",
+      "ba": "NEOETH",
+      "ok": "neoeth",
+      "fc": ""
+    },
+    "b": "neo",
+    "c": "eth"
+  },
+  "neoeur": {
+    "a": {
+      "hb": "",
+      "bt": "neoeur",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "neo",
+    "c": "eur"
+  },
+  "neogbp": {
+    "a": {
+      "hb": "",
+      "bt": "neogbp",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "neo",
+    "c": "gbp"
+  },
+  "neojpy": {
+    "a": {
+      "hb": "",
+      "bt": "neojpy",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "neo",
+    "c": "jpy"
+  },
+  "neousd": {
+    "a": {
+      "hb": "neousdt",
+      "bt": "neousd",
+      "ba": "NEOUSDT",
+      "ok": "neousdt",
+      "fc": ""
+    },
+    "b": "neo",
+    "c": "usd"
+  },
+  "nioeth": {
+    "a": {
+      "hb": "",
+      "bt": "nioeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "nio",
+    "c": "eth"
+  },
+  "niousd": {
+    "a": {
+      "hb": "",
+      "bt": "niousd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "nio",
+    "c": "usd"
+  },
+  "odebtc": {
+    "a": {
+      "hb": "",
+      "bt": "odebtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ode",
+    "c": "btc"
+  },
+  "odeeth": {
+    "a": {
+      "hb": "",
+      "bt": "odeeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ode",
+    "c": "eth"
+  },
+  "odeusd": {
+    "a": {
+      "hb": "",
+      "bt": "odeusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "ode",
+    "c": "usd"
+  },
+  "omgbtc": {
+    "a": {
+      "hb": "omgbtc",
+      "bt": "omgbtc",
+      "ba": "OMGBTC",
+      "ok": "omgbtc",
+      "fc": ""
+    },
+    "b": "omg",
+    "c": "btc"
+  },
+  "omgeth": {
+    "a": {
+      "hb": "omgeth",
+      "bt": "omgeth",
+      "ba": "OMGETH",
+      "ok": "omgeth",
+      "fc": "omgeth"
+    },
+    "b": "omg",
+    "c": "eth"
+  },
+  "omgusd": {
+    "a": {
+      "hb": "omgusdt",
+      "bt": "omgusd",
+      "ba": "",
+      "ok": "omgusdt",
+      "fc": ""
+    },
+    "b": "omg",
+    "c": "usd"
+  },
+  "orsbtc": {
+    "a": {
+      "hb": "",
+      "bt": "orsbtc",
+      "ba": "",
+      "ok": "orsbtc",
+      "fc": ""
+    },
+    "b": "ors",
+    "c": "btc"
+  },
+  "orseth": {
+    "a": {
+      "hb": "",
+      "bt": "orseth",
+      "ba": "",
+      "ok": "orseth",
+      "fc": "orseth"
+    },
+    "b": "ors",
+    "c": "eth"
+  },
+  "orsusd": {
+    "a": {
+      "hb": "",
+      "bt": "orsusd",
+      "ba": "",
+      "ok": "orsusdt",
+      "fc": ""
+    },
+    "b": "ors",
+    "c": "usd"
+  },
+  "paibtc": {
+    "a": {
+      "hb": "paibtc",
+      "bt": "paibtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "pai",
+    "c": "btc"
+  },
+  "paiusd": {
+    "a": {
+      "hb": "paiusdt",
+      "bt": "paiusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "pai",
+    "c": "usd"
+  },
+  "poabtc": {
+    "a": {
+      "hb": "",
+      "bt": "poabtc",
+      "ba": "POABTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "poa",
+    "c": "btc"
+  },
+  "poaeth": {
+    "a": {
+      "hb": "",
+      "bt": "poaeth",
+      "ba": "POAETH",
+      "ok": "",
+      "fc": "poaeth"
+    },
+    "b": "poa",
+    "c": "eth"
+  },
+  "poausd": {
+    "a": {
+      "hb": "",
+      "bt": "poausd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "poa",
+    "c": "usd"
+  },
+  "poybtc": {
+    "a": {
+      "hb": "",
+      "bt": "poybtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "poy",
+    "c": "btc"
+  },
+  "poyeth": {
+    "a": {
+      "hb": "",
+      "bt": "poyeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "poy",
+    "c": "eth"
+  },
+  "poyusd": {
+    "a": {
+      "hb": "",
+      "bt": "poyusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "poy",
+    "c": "usd"
+  },
+  "qshbtc": {
+    "a": {
+      "hb": "",
+      "bt": "qshbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "qsh",
+    "c": "btc"
+  },
+  "qsheth": {
+    "a": {
+      "hb": "",
+      "bt": "qsheth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "qsh",
+    "c": "eth"
+  },
+  "qshusd": {
+    "a": {
+      "hb": "",
+      "bt": "qshusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "qsh",
+    "c": "usd"
+  },
+  "qtmbtc": {
+    "a": {
+      "hb": "qtumbtc",
+      "bt": "qtmbtc",
+      "ba": "QTUMBTC",
+      "ok": "qtumbtc",
+      "fc": ""
+    },
+    "b": "qtm",
+    "c": "btc"
+  },
+  "qtmeth": {
+    "a": {
+      "hb": "qtumeth",
+      "bt": "qtmeth",
+      "ba": "QTUMETH",
+      "ok": "qtumeth",
+      "fc": ""
+    },
+    "b": "qtm",
+    "c": "eth"
+  },
+  "qtmusd": {
+    "a": {
+      "hb": "qtumusdt",
+      "bt": "qtmusd",
+      "ba": "QTUMUSDT",
+      "ok": "qtumusdt",
+      "fc": ""
+    },
+    "b": "qtm",
+    "c": "usd"
+  },
+  "rcnbtc": {
+    "a": {
+      "hb": "rcnbtc",
+      "bt": "rcnbtc",
+      "ba": "RCNBTC",
+      "ok": "rcnbtc",
+      "fc": ""
+    },
+    "b": "rcn",
+    "c": "btc"
+  },
+  "rcneth": {
+    "a": {
+      "hb": "rcneth",
+      "bt": "rcneth",
+      "ba": "RCNETH",
+      "ok": "rcneth",
+      "fc": ""
+    },
+    "b": "rcn",
+    "c": "eth"
+  },
+  "rcnusd": {
+    "a": {
+      "hb": "",
+      "bt": "rcnusd",
+      "ba": "",
+      "ok": "rcnusdt",
+      "fc": ""
+    },
+    "b": "rcn",
+    "c": "usd"
+  },
+  "rdnbtc": {
+    "a": {
+      "hb": "rdnbtc",
+      "bt": "rdnbtc",
+      "ba": "RDNBTC",
+      "ok": "rdnbtc",
+      "fc": ""
+    },
+    "b": "rdn",
+    "c": "btc"
+  },
+  "rdneth": {
+    "a": {
+      "hb": "rdneth",
+      "bt": "rdneth",
+      "ba": "RDNETH",
+      "ok": "rdneth",
+      "fc": ""
+    },
+    "b": "rdn",
+    "c": "eth"
+  },
+  "rdnusd": {
+    "a": {
+      "hb": "",
+      "bt": "rdnusd",
+      "ba": "",
+      "ok": "rdnusdt",
+      "fc": ""
+    },
+    "b": "rdn",
+    "c": "usd"
+  },
+  "repbtc": {
+    "a": {
+      "hb": "",
+      "bt": "repbtc",
+      "ba": "REPBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "rep",
+    "c": "btc"
+  },
+  "repeth": {
+    "a": {
+      "hb": "",
+      "bt": "repeth",
+      "ba": "REPETH",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "rep",
+    "c": "eth"
+  },
+  "repusd": {
+    "a": {
+      "hb": "",
+      "bt": "repusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "rep",
+    "c": "usd"
+  },
+  "reqbtc": {
+    "a": {
+      "hb": "reqbtc",
+      "bt": "reqbtc",
+      "ba": "REQBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "req",
+    "c": "btc"
+  },
+  "reqeth": {
+    "a": {
+      "hb": "reqeth",
+      "bt": "reqeth",
+      "ba": "REQETH",
+      "ok": "reqeth",
+      "fc": ""
+    },
+    "b": "req",
+    "c": "eth"
+  },
+  "requsd": {
+    "a": {
+      "hb": "",
+      "bt": "requsd",
+      "ba": "",
+      "ok": "requsdt",
+      "fc": ""
+    },
+    "b": "req",
+    "c": "usd"
+  },
+  "rlcbtc": {
+    "a": {
+      "hb": "",
+      "bt": "rlcbtc",
+      "ba": "RLCBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "rlc",
+    "c": "btc"
+  },
+  "rlceth": {
+    "a": {
+      "hb": "",
+      "bt": "rlceth",
+      "ba": "RLCETH",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "rlc",
+    "c": "eth"
+  },
+  "rlcusd": {
+    "a": {
+      "hb": "",
+      "bt": "rlcusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "rlc",
+    "c": "usd"
+  },
+  "rrtbtc": {
+    "a": {
+      "hb": "",
+      "bt": "rrtbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "rrt",
+    "c": "btc"
+  },
+  "rrtusd": {
+    "a": {
+      "hb": "",
+      "bt": "rrtusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "rrt",
+    "c": "usd"
+  },
+  "sanbtc": {
+    "a": {
+      "hb": "",
+      "bt": "sanbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "san",
+    "c": "btc"
+  },
+  "saneth": {
+    "a": {
+      "hb": "",
+      "bt": "saneth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "san",
+    "c": "eth"
+  },
+  "sanusd": {
+    "a": {
+      "hb": "",
+      "bt": "sanusd",
+      "ba": "",
+      "ok": "sanusdt",
+      "fc": ""
+    },
+    "b": "san",
+    "c": "usd"
+  },
+  "seebtc": {
+    "a": {
+      "hb": "",
+      "bt": "seebtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "see",
+    "c": "btc"
+  },
+  "seeeth": {
+    "a": {
+      "hb": "",
+      "bt": "seeeth",
+      "ba": "",
+      "ok": "",
+      "fc": "seeeth"
+    },
+    "b": "see",
+    "c": "eth"
+  },
+  "seeusd": {
+    "a": {
+      "hb": "",
+      "bt": "seeusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "see",
+    "c": "usd"
+  },
+  "senbtc": {
+    "a": {
+      "hb": "",
+      "bt": "senbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "sen",
+    "c": "btc"
+  },
+  "seneth": {
+    "a": {
+      "hb": "",
+      "bt": "seneth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "sen",
+    "c": "eth"
+  },
+  "senusd": {
+    "a": {
+      "hb": "",
+      "bt": "senusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "sen",
+    "c": "usd"
+  },
+  "sngbtc": {
+    "a": {
+      "hb": "",
+      "bt": "sngbtc",
+      "ba": "SNGLSBTC",
+      "ok": "snglsbtc",
+      "fc": ""
+    },
+    "b": "sng",
+    "c": "btc"
+  },
+  "sngeth": {
+    "a": {
+      "hb": "",
+      "bt": "sngeth",
+      "ba": "SNGLSETH",
+      "ok": "snglseth",
+      "fc": ""
+    },
+    "b": "sng",
+    "c": "eth"
+  },
+  "sngusd": {
+    "a": {
+      "hb": "",
+      "bt": "sngusd",
+      "ba": "",
+      "ok": "snglsusdt",
+      "fc": ""
+    },
+    "b": "sng",
+    "c": "usd"
+  },
+  "sntbtc": {
+    "a": {
+      "hb": "sntbtc",
+      "bt": "sntbtc",
+      "ba": "SNTBTC",
+      "ok": "sntbtc",
+      "fc": ""
+    },
+    "b": "snt",
+    "c": "btc"
+  },
+  "snteth": {
+    "a": {
+      "hb": "",
+      "bt": "snteth",
+      "ba": "SNTETH",
+      "ok": "snteth",
+      "fc": "snteth"
+    },
+    "b": "snt",
+    "c": "eth"
+  },
+  "sntusd": {
+    "a": {
+      "hb": "sntusdt",
+      "bt": "sntusd",
+      "ba": "",
+      "ok": "sntusdt",
+      "fc": ""
+    },
+    "b": "snt",
+    "c": "usd"
+  },
+  "spkbtc": {
+    "a": {
+      "hb": "",
+      "bt": "spkbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "spk",
+    "c": "btc"
+  },
+  "spketh": {
+    "a": {
+      "hb": "",
+      "bt": "spketh",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "spk",
+    "c": "eth"
+  },
+  "spkusd": {
+    "a": {
+      "hb": "",
+      "bt": "spkusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "spk",
+    "c": "usd"
+  },
+  "stjbtc": {
+    "a": {
+      "hb": "storjbtc",
+      "bt": "stjbtc",
+      "ba": "STORJBTC",
+      "ok": "storjbtc",
+      "fc": ""
+    },
+    "b": "stj",
+    "c": "btc"
+  },
+  "stjeth": {
+    "a": {
+      "hb": "",
+      "bt": "stjeth",
+      "ba": "STORJETH",
+      "ok": "storjeth",
+      "fc": ""
+    },
+    "b": "stj",
+    "c": "eth"
+  },
+  "stjusd": {
+    "a": {
+      "hb": "storjusdt",
+      "bt": "stjusd",
+      "ba": "",
+      "ok": "storjusdt",
+      "fc": ""
+    },
+    "b": "stj",
+    "c": "usd"
+  },
+  "tnbbtc": {
+    "a": {
+      "hb": "tnbbtc",
+      "bt": "tnbbtc",
+      "ba": "TNBBTC",
+      "ok": "tnbbtc",
+      "fc": ""
+    },
+    "b": "tnb",
+    "c": "btc"
+  },
+  "tnbeth": {
+    "a": {
+      "hb": "tnbeth",
+      "bt": "tnbeth",
+      "ba": "TNBETH",
+      "ok": "tnbeth",
+      "fc": "tnbeth"
+    },
+    "b": "tnb",
+    "c": "eth"
+  },
+  "tnbusd": {
+    "a": {
+      "hb": "",
+      "bt": "tnbusd",
+      "ba": "",
+      "ok": "tnbusdt",
+      "fc": "tnbusdt"
+    },
+    "b": "tnb",
+    "c": "usd"
+  },
+  "trxbtc": {
+    "a": {
+      "hb": "trxbtc",
+      "bt": "trxbtc",
+      "ba": "TRXBTC",
+      "ok": "trxbtc",
+      "fc": ""
+    },
+    "b": "trx",
+    "c": "btc"
+  },
+  "trxeth": {
+    "a": {
+      "hb": "trxeth",
+      "bt": "trxeth",
+      "ba": "TRXETH",
+      "ok": "trxeth",
+      "fc": ""
+    },
+    "b": "trx",
+    "c": "eth"
+  },
+  "trxusd": {
+    "a": {
+      "hb": "trxusdt",
+      "bt": "trxusd",
+      "ba": "TRXUSDT",
+      "ok": "trxusdt",
+      "fc": ""
+    },
+    "b": "trx",
+    "c": "usd"
+  },
+  "utkbtc": {
+    "a": {
+      "hb": "",
+      "bt": "utkbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "utk",
+    "c": "btc"
+  },
+  "utketh": {
+    "a": {
+      "hb": "utketh",
+      "bt": "utketh",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "utk",
+    "c": "eth"
+  },
+  "utkusd": {
+    "a": {
+      "hb": "",
+      "bt": "utkusd",
+      "ba": "",
+      "ok": "utkusdt",
+      "fc": ""
+    },
+    "b": "utk",
+    "c": "usd"
+  },
+  "veebtc": {
+    "a": {
+      "hb": "",
+      "bt": "veebtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "vee",
+    "c": "btc"
+  },
+  "veeeth": {
+    "a": {
+      "hb": "",
+      "bt": "veeeth",
+      "ba": "",
+      "ok": "veeeth",
+      "fc": ""
+    },
+    "b": "vee",
+    "c": "eth"
+  },
+  "veeusd": {
+    "a": {
+      "hb": "",
+      "bt": "veeusd",
+      "ba": "",
+      "ok": "veeusdt",
+      "fc": ""
+    },
+    "b": "vee",
+    "c": "usd"
+  },
+  "vetbtc": {
+    "a": {
+      "hb": "vetbtc",
+      "bt": "vetbtc",
+      "ba": "VETBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "vet",
+    "c": "btc"
+  },
+  "veteth": {
+    "a": {
+      "hb": "veteth",
+      "bt": "veteth",
+      "ba": "VETETH",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "vet",
+    "c": "eth"
+  },
+  "vetusd": {
+    "a": {
+      "hb": "vetusdt",
+      "bt": "vetusd",
+      "ba": "VETUSDT",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "vet",
+    "c": "usd"
+  },
+  "waxbtc": {
+    "a": {
+      "hb": "waxbtc",
+      "bt": "waxbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "wax",
+    "c": "btc"
+  },
+  "waxeth": {
+    "a": {
+      "hb": "waxeth",
+      "bt": "waxeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "wax",
+    "c": "eth"
+  },
+  "waxusd": {
+    "a": {
+      "hb": "",
+      "bt": "waxusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "wax",
+    "c": "usd"
+  },
+  "wprbtc": {
+    "a": {
+      "hb": "wprbtc",
+      "bt": "wprbtc",
+      "ba": "WPRBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "wpr",
+    "c": "btc"
+  },
+  "wpreth": {
+    "a": {
+      "hb": "wpreth",
+      "bt": "wpreth",
+      "ba": "WPRETH",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "wpr",
+    "c": "eth"
+  },
+  "wprusd": {
+    "a": {
+      "hb": "",
+      "bt": "wprusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "wpr",
+    "c": "usd"
+  },
+  "xlmbtc": {
+    "a": {
+      "hb": "xlmbtc",
+      "bt": "xlmbtc",
+      "ba": "XLMBTC",
+      "ok": "xlmbtc",
+      "fc": ""
+    },
+    "b": "xlm",
+    "c": "btc"
+  },
+  "xlmeth": {
+    "a": {
+      "hb": "xlmeth",
+      "bt": "xlmeth",
+      "ba": "XLMETH",
+      "ok": "xlmeth",
+      "fc": ""
+    },
+    "b": "xlm",
+    "c": "eth"
+  },
+  "xlmeur": {
+    "a": {
+      "hb": "",
+      "bt": "xlmeur",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xlm",
+    "c": "eur"
+  },
+  "xlmgbp": {
+    "a": {
+      "hb": "",
+      "bt": "xlmgbp",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xlm",
+    "c": "gbp"
+  },
+  "xlmjpy": {
+    "a": {
+      "hb": "",
+      "bt": "xlmjpy",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xlm",
+    "c": "jpy"
+  },
+  "xlmusd": {
+    "a": {
+      "hb": "",
+      "bt": "xlmusd",
+      "ba": "XLMUSDT",
+      "ok": "xlmusdt",
+      "fc": ""
+    },
+    "b": "xlm",
+    "c": "usd"
+  },
+  "xmrbtc": {
+    "a": {
+      "hb": "xmrbtc",
+      "bt": "xmrbtc",
+      "ba": "XMRBTC",
+      "ok": "xmrbtc",
+      "fc": ""
+    },
+    "b": "xmr",
+    "c": "btc"
+  },
+  "xmrusd": {
+    "a": {
+      "hb": "",
+      "bt": "xmreth",
+      "ba": "",
+      "ok": "xmretht",
+      "fc": ""
+    },
+    "b": "xmr",
+    "c": "usd"
+  },
+  "xraeth": {
+    "a": {
+      "hb": "",
+      "bt": "xraeth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xra",
+    "c": "eth"
+  },
+  "xrausd": {
+    "a": {
+      "hb": "",
+      "bt": "xrausd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xra",
+    "c": "usd"
+  },
+  "xrpbtc": {
+    "a": {
+      "hb": "xrpbtc",
+      "bt": "xrpbtc",
+      "ba": "XRPBTC",
+      "ok": "xrpbtc",
+      "fc": "xrpbtc"
+    },
+    "b": "xrp",
+    "c": "btc"
+  },
+  "xrpusd": {
+    "a": {
+      "hb": "xrpusdt",
+      "bt": "xrpusd",
+      "ba": "XRPUSDT",
+      "ok": "xrpusdt",
+      "fc": "xrpusdt"
+    },
+    "b": "xrp",
+    "c": "usd"
+  },
+  "xvgbtc": {
+    "a": {
+      "hb": "xvgbtc",
+      "bt": "xvgbtc",
+      "ba": "XVGBTC",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xvg",
+    "c": "btc"
+  },
+  "xvgeth": {
+    "a": {
+      "hb": "xvgeth",
+      "bt": "xvgeth",
+      "ba": "XVGETH",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xvg",
+    "c": "eth"
+  },
+  "xvgeur": {
+    "a": {
+      "hb": "",
+      "bt": "xvgeur",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xvg",
+    "c": "eur"
+  },
+  "xvggbp": {
+    "a": {
+      "hb": "",
+      "bt": "xvggbp",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xvg",
+    "c": "gbp"
+  },
+  "xvgjpy": {
+    "a": {
+      "hb": "",
+      "bt": "xvgjpy",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xvg",
+    "c": "jpy"
+  },
+  "xvgusd": {
+    "a": {
+      "hb": "",
+      "bt": "xvgusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "xvg",
+    "c": "usd"
+  },
+  "yywbtc": {
+    "a": {
+      "hb": "",
+      "bt": "yywbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "yyw",
+    "c": "btc"
+  },
+  "yyweth": {
+    "a": {
+      "hb": "",
+      "bt": "yyweth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "yyw",
+    "c": "eth"
+  },
+  "yywusd": {
+    "a": {
+      "hb": "",
+      "bt": "yywusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "yyw",
+    "c": "usd"
+  },
+  "zcnbtc": {
+    "a": {
+      "hb": "",
+      "bt": "zcnbtc",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "zcn",
+    "c": "btc"
+  },
+  "zcneth": {
+    "a": {
+      "hb": "",
+      "bt": "zcneth",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "zcn",
+    "c": "eth"
+  },
+  "zcnusd": {
+    "a": {
+      "hb": "",
+      "bt": "zcnusd",
+      "ba": "",
+      "ok": "",
+      "fc": ""
+    },
+    "b": "zcn",
+    "c": "usd"
+  },
+  "zecbtc": {
+    "a": {
+      "hb": "zecbtc",
+      "bt": "zecbtc",
+      "ba": "ZECBTC",
+      "ok": "zecbtc",
+      "fc": ""
+    },
+    "b": "zec",
+    "c": "btc"
+  },
+  "zecusd": {
+    "a": {
+      "hb": "zecusdt",
+      "bt": "zecusd",
+      "ba": "",
+      "ok": "zecusdt",
+      "fc": ""
+    },
+    "b": "zec",
+    "c": "usd"
+  },
+  "zilbtc": {
+    "a": {
+      "hb": "zilbtc",
+      "bt": "zilbtc",
+      "ba": "ZILBTC",
+      "ok": "zilbtc",
+      "fc": ""
+    },
+    "b": "zil",
+    "c": "btc"
+  },
+  "zileth": {
+    "a": {
+      "hb": "",
+      "bt": "zileth",
+      "ba": "ZILETH",
+      "ok": "zileth",
+      "fc": "zileth"
+    },
+    "b": "zil",
+    "c": "eth"
+  },
+  "zilusd": {
+    "a": {
+      "hb": "zilusdt",
+      "bt": "zilusd",
+      "ba": "",
+      "ok": "zilusdt",
+      "fc": ""
+    },
+    "b": "zil",
+    "c": "usd"
+  },
+  "zrxbtc": {
+    "a": {
+      "hb": "zrxbtc",
+      "bt": "zrxbtc",
+      "ba": "ZRXBTC",
+      "ok": "zrxbtc",
+      "fc": ""
+    },
+    "b": "zrx",
+    "c": "btc"
+  },
+  "zrxeth": {
+    "a": {
+      "hb": "zrxeth",
+      "bt": "zrxeth",
+      "ba": "ZRXETH",
+      "ok": "zrxeth",
+      "fc": "zrxeth"
+    },
+    "b": "zrx",
+    "c": "eth"
+  },
+  "zrxusd": {
+    "a": {
+      "hb": "",
+      "bt": "zrxusd",
+      "ba": "",
+      "ok": "zrxusd",
+      "fc": ""
+    },
+    "b": "zrx",
+    "c": "usd"
+  }
+}
